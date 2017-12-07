@@ -91,6 +91,8 @@
     "SIGNIN_SUCCESS": "SUCCESS! You are almost done!",
     "SIGNIN_SUCCESS_YOUR_ADDRESS": "Your address is:",
     "CLICK_SIGNIN_SUCCESS": "Click the button below and choose yor side - Advertiser or Publisher.",
+    "SIGNIN_CREATE_ACCOUNT": "Create Account",
+    "SIGNIN_RESTORE_ACCOUNT": "Restore Account",
     "MEMORIZE_SEED": "This is your seed, please write it on paper and keep it offline!",
     "MEMORIZE_SEED_WARNING": "We will check that on the next step :)",
     "HELPER_SEED_RECOVER": "Enter your ${0} words separated wit space ' ' ",
