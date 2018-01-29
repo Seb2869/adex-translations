@@ -124,5 +124,11 @@
     "PROP_PASSWORD": "Password",
     "PROP_PASSCONFIRM": "Password confirm",
     "PROP_SEED": "Seed",
-    "PROP_EMAIL": "Email"
+    "PROP_EMAIL": "Email",
+    "BID_TIMEOUT_MINUTE": "${0} minute",
+    "BID_TIMEOUT_MINUTES": "${0} minutes",
+    "BID_TIMEOUT_HOUR": "${0} hour",
+    "BID_TIMEOUT_HOURS": "${0} hours",
+    "BID_TIMEOUT_DAY": "${0} day",
+    "BID_TIMEOUT_DAYS": "${0} days"
 }
