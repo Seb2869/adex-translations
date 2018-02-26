@@ -132,7 +132,7 @@
     "BID_TIMEOUT_DAY": "${0} day",
     "BID_TIMEOUT_DAYS": "${0} days",
     "ACCOUNT_APPROVE_MSG": "Your current balance is ${0}",
-    "AUTH_WARN_NO_METAMASK_ADDR": "No metamask address found, pleas check your metamask!",
+    "AUTH_WARN_NO_METAMASK_ADDR": "No metamask address found, please check your metamask!",
     "AUTH_ERR_METAMASK": "Something get wrong: ${0}",
     "AUTH_WITH_METAMASK": "Authenticate ${0}",
     "AUTH_CONNECT_WITH_METAMASK": "Connect with metamask",
