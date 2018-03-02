@@ -293,5 +293,8 @@
     "LOGOUT": "Log Out",
     "WARNING_PENDING_ACCEPT_BY_PUB": "Pending accept transaction!",
     "BID_PLACED_MSG": "Bid with id \"${0}\" has been placed",
-    "ERR_PLACE_BID": "Err placing bid: ${0}"
+    "ERR_PLACE_BID": "Err placing bid: ${0}",
+    "ERROR": "Error",
+    "ERR_NO_ADV_AMOUNT_ON_EXCHANGE": "You can not accept thi bid. The advertiser does not have sufficient deposit on the exchange!",
+    "ERR_ADV_NO_SUFFICIENT_DEPOSIT": "Your available deposit on the exchange is not sufficient. Please deposit now or after the bid is placed. If you do not have enough tokens on the exchange your bid can not be accepted!"
 }
