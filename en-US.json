@@ -301,5 +301,6 @@
     "ERR_GETTING_BALANCES_INFO": "Error getting account balances: ${0}",
     "ERR_INVALID_AMOUNT": "Invalid amount value!",
     "ERR_BID_ZERO_AMOUNT": "Bid amount can NOT be 0!",
-    "ERR_INVALID_TARGET": "Invalid target value it must be an integer number!"
+    "ERR_INVALID_TARGET": "Invalid target value it must be an integer number!",
+    "ACCOUNT_DEPOSIT_MULTIPLE_SIGNS_MSG": "You have to sign 2 in some cases 3 transactions to deposit ADX to exchange. This is required by the way ethereum ERC20 tokens works. In order to deposit you have to set allowance to ADX token contract. If for some reason the allowance is not 0 then you have to sign 3 transactions. More info at https://theethereum.wiki/w/index.php/ERC20_Token_Standard"
 }
