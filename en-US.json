@@ -1,5 +1,4 @@
 {
-    "!Delete it": "import Translate from 'components/translate/Translate'",
     "OK": "Ok",
     "CANCEL": "Cancel",
     "ACCEPT": "Accept",
@@ -40,7 +39,7 @@
     "SALE_POINT_ADV_3": "Minimized ad-fraud",
     "SALE_POINT_PUB_1": "100% traffic monetization",
     "SALE_POINT_PUB_2": "No middlemen",
-    "SALE_POINT_PUB_3": "No fees or commisions",
+    "SALE_POINT_PUB_3": "No fees or commissions",
     "GO_ADVERTISER": "Go to advertiser side",
     "GO_PUBLISHER": "Go to publisher side",
     "GO_UNIT": "Go to unit ${0}",
@@ -279,7 +278,7 @@
     "CONFIRM_NO": "No",
     "CONFIRM_SURE": "Are you sure?",
     "DELETE_ITEM": "Delete ${0} \"${1}\"",
-    "REMOVE_ITEM": "Rmove ${0} \"${1}\" from ${2} \"${3}\" ",
+    "REMOVE_ITEM": "Remove ${0} \"${1}\" from ${2} \"${3}\" ",
     "PROP_ADSLOT": "Ad slot",
     "PROP_ADUNIT": "Ad unit",
     "PROP_CAMPAIGN": "Campaign",
@@ -294,14 +293,5 @@
     "LOGOUT": "Log Out",
     "WARNING_PENDING_ACCEPT_BY_PUB": "Pending accept transaction!",
     "BID_PLACED_MSG": "Bid with id \"${0}\" has been placed",
-    "ERR_PLACE_BID": "Err placing bid: ${0}",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": ""
+    "ERR_PLACE_BID": "Err placing bid: ${0}"
 }
