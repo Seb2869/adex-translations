@@ -304,5 +304,15 @@
 	"ERR_INVALID_TARGET": "Invalid target value it must be an integer number!",
 	"ACCOUNT_DEPOSIT_MULTIPLE_SIGNS_MSG": "You have to sign 2 in some cases 3 transactions to deposit ADX to exchange. This is required by the way ethereum ERC20 tokens works. In order to deposit you have to set allowance to ADX token contract. If for some reason the allowance is not 0 then you have to sign 3 transactions. More info at https://theethereum.wiki/w/index.php/ERC20_Token_Standard",
 	"NO_FALLBACK_URL_YET": "Add fallback URL here",
-	"HELP": "Help"
+	"HELP": "Help",
+	"ERR_CREATING_ITEM": "Error creating ${0}: ${1}",
+	"ERR_DELETING_ITEM": "Error deleting ${0}: ${1}",
+	"ERR_REMOVE_ITEM_FROM_ITEM": "Error remove ${0} from ${1}: ${2}",
+	"ERR_ADD_ITEM_FROM_ITEM": "Error adding ${0} from ${1}: ${2}",
+	"ERR_UPDATING_ITEM": "Error updating ${0} \"${1}\": ${2}",
+	"SUCCESS_CREATING_ITEM": "${0} \"${1}\" has been created!",
+	"SUCCESS_DELETING_ITEM": "Error deleting ${0}: ${1}",
+	"SUCCESS_REMOVE_ITEM_FROM_ITEM": "${0} \"${1}\" has been removed from ${2} \"${3}\"",
+	"SUCCESS_ADD_ITEM_TO_ITEM": "${0} \"${1}\" has been added to ${2} \"${3}\"",
+	"SUCCESS_UPDATING_ITEM": "${0} \"${1}\" has been updated!"
 }
