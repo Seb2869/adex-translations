@@ -311,8 +311,8 @@
     "ERR_ADD_ITEM_FROM_ITEM": "Error adding ${0} from ${1}: ${2}",
     "ERR_UPDATING_ITEM": "Error updating ${0} \"${1}\": ${2}",
     "SUCCESS_CREATING_ITEM": "${0} \"${1}\" has been created!",
-    "SUCCESS_DELETING_ITEM": "Error deleting ${0}: ${1}",
+    "SUCCESS_DELETING_ITEM": "${0} \"${1}\" has been deleted",
     "SUCCESS_REMOVE_ITEM_FROM_ITEM": "${0} \"${1}\" has been removed from ${2} \"${3}\"",
     "SUCCESS_ADD_ITEM_TO_ITEM": "${0} \"${1}\" has been added to ${2} \"${3}\"",
-    "SUCCESS_UPDATING_ITEM": "${0} \"${1}\" has been updated!" 
+    "SUCCESS_UPDATING_ITEM": "${0} \"${1}\" has been updated!"
 }
