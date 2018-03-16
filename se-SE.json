@@ -314,5 +314,9 @@
 	"SUCCESS_DELETING_ITEM": "Error deleting ${0}: ${1}",
 	"SUCCESS_REMOVE_ITEM_FROM_ITEM": "${0} \"${1}\" has been removed from ${2} \"${3}\"",
 	"SUCCESS_ADD_ITEM_TO_ITEM": "${0} \"${1}\" has been added to ${2} \"${3}\"",
-	"SUCCESS_UPDATING_ITEM": "${0} \"${1}\" has been updated!"
+	"SUCCESS_UPDATING_ITEM": "${0} \"${1}\" has been updated!",
+	"IMG_FORM_CROP": "Crop",
+	"IMG_FORM_CLEAR": "Clear",
+	"IMG_FORM_SAVE_CROP": "Save",
+	"IMG_FORM_CANCEL_CROP": "Cancel"
 }
