@@ -318,5 +318,16 @@
     "IMG_FORM_CROP": "Crop",
     "IMG_FORM_CLEAR": "Clear",
     "IMG_FORM_SAVE_CROP": "Save",
-    "IMG_FORM_CANCEL_CROP": "Cancel"
+    "IMG_FORM_CANCEL_CROP": "Cancel",
+    "ERR_ARCHIVING_ITEM": "Error archiving ${0} \"${1}\": ${2}",
+    "SUCCESS_ARCHIVING_ITEM": "${0} \"${1}\" has been archived!",
+    "ERR_UNARCHIVING_ITEM": "Error unarchiving ${0} \"${1}\": ${2}",
+    "SUCCESS_UNARCHIVING_ITEM": "${0} \"${1}\" has been unarchived!",
+    "LABEL_ACTIVE": "Active",
+    "LABEL_ARCHIVED": "Archived",
+    "LABEL_ALL": "All",
+    "TOOLTIP_ARCHIVE": "Archive",
+    "TOOLTIP_UNARCHIVE": "Unarchive",
+    "ARCHIVE_ITEM": "Archive ${0} \"${1}\"",
+    "UNARCHIVE_ITEM": "Unarchive ${0} \"${1}\""
 }
