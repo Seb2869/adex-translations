@@ -212,7 +212,7 @@
 	"GIVEUP_BID": "Giveup bid",
 	"VERIFY_BID": "Verify bid",
 	"PROP_TARGET": "Target",
-	"PROP_TIMEOUT": "Amount",
+	"PROP_TIMEOUT": "Timeout",
 	"AD_UNIT": "Ad unit",
 	"AD_SLOT": "Ad slot",
 	"TIMEOUT": "Timeout",
