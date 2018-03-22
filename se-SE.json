@@ -190,6 +190,8 @@
 	"BID_STATE_CANCELED": "Canceled",
 	"BID_STATE_EXPIRED": "Expired",
 	"BID_STATE_COMPLETED": "Completed",
+	"BID_STATE_CONFIRMED_BY_ADVERTISER": "Verified by advertiser",
+	"BID_STATE_CONFIRMED_BY_PUBLISHER": "Verified by publisher",
 	"CANCEL_BID_TITLE": "Cancel bid",
 	"CANCEL_BID_STEP": "Bid info",
 	"BID_CLICKS": "Bid clicks",
@@ -329,5 +331,14 @@
 	"TOOLTIP_ARCHIVE": "Archive",
 	"TOOLTIP_UNARCHIVE": "Unarchive",
 	"ARCHIVE_ITEM": "Archive ${0} \"${1}\"",
-	"UNARCHIVE_ITEM": "Unarchive ${0} \"${1}\""
+	"UNARCHIVE_ITEM": "Unarchive ${0} \"${1}\"",
+	"LABEL_SIZE_PX": "{0} x {1} px",
+	"LABEL_TARGET_WEIGHT_NONE": "None",
+	"LABEL_TARGET_WEIGHT_LOW": "Low",
+	"LABEL_TARGET_WEIGHT_MEDIUM": "Medium",
+	"LABEL_TARGET_WEIGHT_HIGH": "High",
+	"LABEL_TARGET_WEIGHT_HIGHEST": "Highest",
+	"LABEL_GENDER_FEMALE": "Female",
+	"LABEL_GENDER_MALE": "Male",
+	"LABEL_GENDER_OTHER": "Other"
 }
