@@ -340,5 +340,12 @@
     "LABEL_TARGET_WEIGHT_HIGHEST": "Highest",
     "LABEL_GENDER_FEMALE": "Female",
     "LABEL_GENDER_MALE": "Male",
-    "LABEL_GENDER_OTHER": "Other"
+    "LABEL_GENDER_OTHER": "Other",
+    "LIST_CONTROL_LABEL_SEARCH": "Search",
+    "LIST_CONTROL_LABEL_PAGE_SIZE": "Page size",
+    "LIST_CONTROL_LABEL_PAGE": "page",
+    "LIST_CONTROL_LABEL_PAGE_OF": "of ${0}",
+    "LIST_CONTROL_LABEL_SORT": "Sort by",
+    "LIST_CONTROL_LABEL_FILTER_BY": "Filter by",
+    "LIST_CONTROL_LABEL_FILTER_BY_VALUE": "Filter value"
 }
