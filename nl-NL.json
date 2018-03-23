@@ -347,5 +347,16 @@
 	"LIST_CONTROL_LABEL_PAGE_OF": "of ${0}",
 	"LIST_CONTROL_LABEL_SORT": "Sort by",
 	"LIST_CONTROL_LABEL_FILTER_BY": "Filter by",
-	"LIST_CONTROL_LABEL_FILTER_BY_VALUE": "Filter value"
+	"LIST_CONTROL_LABEL_FILTER_BY_VALUE": "Filter value",
+	"PREVIEW_AND_SAVE_ITEM": "Preview and save",
+	"UNIT_BASIC_STEP": "Basic info",
+	"UNIT_TYPE_DATA_STEP": "Type and size",
+	"UNIT_BANNER_STEP": "Banner",
+	"UNIT_TARGETS_STEP": "Targets",
+	"CAMPAIGN_BASIC_STEP": "Basic info",
+	"CAMPAIGN_PERIOD_STEP": "Period",
+	"SLOT_BASIC_STEP": "Basic",
+	"SLOT_TYPE_DATA_STEP": "Type and size",
+	"SLOT_IMAGES_STEP": "Images",
+	"CHANNEL_BASIC_STEP": "Basic"
 }
