@@ -1,5 +1,6 @@
 {
 	"OK": "Ok",
+	"SAVE": "Save",
 	"CANCEL": "Cancel",
 	"ACCEPT": "Accept",
 	"VIEW": "View",
@@ -358,5 +359,8 @@
 	"SLOT_BASIC_STEP": "Basic",
 	"SLOT_TYPE_DATA_STEP": "Type and size",
 	"SLOT_IMAGES_STEP": "Images",
-	"CHANNEL_BASIC_STEP": "Basic"
+	"CHANNEL_BASIC_STEP": "Basic",
+	"PLACE_BID_SAVE_BTN": "Place bid",
+	"BID_DATA_STEP": "Bid details",
+	"PROP_AD_URL": "Destination URL"
 }

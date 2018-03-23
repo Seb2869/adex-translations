@@ -1,5 +1,6 @@
 {
     "OK": "Ok",
+    "SAVE": "Save",
     "CANCEL": "Cancel",
     "ACCEPT": "Accept",
     "VIEW": "View",
@@ -349,14 +350,17 @@
     "LIST_CONTROL_LABEL_FILTER_BY": "Filter by",
     "LIST_CONTROL_LABEL_FILTER_BY_VALUE": "Filter value",
     "PREVIEW_AND_SAVE_ITEM": "Preview and save",
-    "UNIT_BASIC_STEP": "Basic info",
-    "UNIT_TYPE_DATA_STEP": "Type and size",
-    "UNIT_BANNER_STEP": "Banner",
-    "UNIT_TARGETS_STEP": "Targets",
-    "CAMPAIGN_BASIC_STEP": "Basic info",
+    "UNIT_BASIC_STEP": "Description",
+    "UNIT_TYPE_DATA_STEP": "Ad details",
+    "UNIT_BANNER_STEP": "Ad creative",
+    "UNIT_TARGETS_STEP": "Audiences",
+    "CAMPAIGN_BASIC_STEP": "Description",
     "CAMPAIGN_PERIOD_STEP": "Period",
-    "SLOT_BASIC_STEP": "Basic",
+    "SLOT_BASIC_STEP": "Description",
     "SLOT_TYPE_DATA_STEP": "Type and size",
-    "SLOT_IMAGES_STEP": "Images",
-    "CHANNEL_BASIC_STEP": "Basic"
+    "SLOT_IMAGES_STEP": "Fallback info",
+    "CHANNEL_BASIC_STEP": "Description",
+    "PLACE_BID_SAVE_BTN": "Place bid",
+    "BID_DATA_STEP": "Bid details",
+    "PROP_AD_URL": "Destination URL"
 }
