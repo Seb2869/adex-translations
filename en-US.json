@@ -301,6 +301,7 @@
     "ERR_PLACE_BID": "Err placing bid: ${0}",
     "ERROR": "Error",
     "ERR_NO_ADV_AMOUNT_ON_EXCHANGE": "You can not accept this bid. The advertiser does not have sufficient deposit on the exchange at this moment!",
+    "ERR_INVALID_BID_AMOUNT": "You can not accept this bid. Invalid bid amount!",
     "ERR_ADV_NO_SUFFICIENT_DEPOSIT": "Your available deposit on the exchange (${0} ADX) is not sufficient. Please deposit desired bid amount to the exchange!",
     "EXCHANGE_ADX_BALANCE_AVAILABLE_BID_INFO": "ADX available balance on Exchange: ${0}",
     "ERR_GETTING_BALANCES_INFO": "Error getting account balances: ${0}",
