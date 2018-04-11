@@ -386,5 +386,7 @@
 	"LEDGER_WAITING_ACTION": "Waiting for LEDGER action. Please follow the instructions on LEDGER device...",
 	"LEDGER_WAITING_ADDRS_INFO": "Waiting for LEDGER addresses info",
 	"LEDGER_INFO": "Ledger (Nano S) is a Bitcoin, Ethereum and Altcoins hardware wallet, based on robust safety features for storing cryptographic assets and securing digital payments.",
-	"CONNECT_WITH_LEDGER": "Connect with LEDGER"
+	"CONNECT_WITH_LEDGER": "Connect with LEDGER",
+	"ADDR_INFO_ON_BIDS": "ON BIDS",
+	"ADDR_INFO_XCH_AVAILABLE": "XCH AVAILABLE"
 }
