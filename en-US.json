@@ -274,6 +274,7 @@
     "TRANS_MTD_EXCHANGE_SET_ALLOWANCE_TO_ZERO": "Set allowance to 0",
     "TRANS_METHOD": "Transaction method",
     "TRANS_ID": "Transaction id",
+    "TRANS_NONCE": "Transaction nonce",
     "TRANS_STATUS": "Transaction status",
     "TRANS_SENDING_TIME": "Sending time",
     "PROP_SENDINGTIME": "Sending time",
