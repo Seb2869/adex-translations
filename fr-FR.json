@@ -388,5 +388,6 @@
 	"LEDGER_INFO": "Ledger (Nano S) is a Bitcoin, Ethereum and Altcoins hardware wallet, based on robust safety features for storing cryptographic assets and securing digital payments.",
 	"CONNECT_WITH_LEDGER": "Connect with LEDGER",
 	"ADDR_INFO_ON_BIDS": "ON BIDS",
-	"ADDR_INFO_XCH_AVAILABLE": "XCH AVAILABLE"
+	"ADDR_INFO_XCH_AVAILABLE": "XCH AVAILABLE",
+	"METAMASK_WAITING_ADDR_INFO": "Waiting for METAMASK address info..."
 }
