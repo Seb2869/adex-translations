@@ -397,9 +397,9 @@
     "METAMASK_BASIC_USAGE_INFO": "To authenticate with MetaMask, download and install the MetaMask extension for Chrome, Firefox, Opera or Brave browsers: ${0}.",
     "DETAILS": "Details",
     "REPORTS": "Reports",
-    "BIDS_AWAITING_ACTION": "Awaiting action",
-    "BIDS_OPEN": "Open",
-    "BIDS_CLOSED": "Closed",
+    "BIDS_AWAITING_ACTION": "Awaiting action${0}",
+    "BIDS_OPEN": "Open${0}",
+    "BIDS_CLOSED": "Closed${0}",
     "REPORT_PUBLISHER": "Report publisher",
     "REPORT_ADVERTISER": "Report advertiser",
     "PROP_OWNER": "Owner",
@@ -415,5 +415,6 @@
     "WARNING_TARGET_REACHED_GIVEUP": "The target for unique clicks is reached. In that case you can verify the bid and wait the advertiser to do the same (in not done yet) to transfer the bid amount to your address.",
     "WARNING_TARGET_REACHED_GIVEUP_CHECKBOX": "By accepting this checkbox you can give up the bid anyway.",
     "WARNING_TARGET_REACHED_REFUND": "The target for unique clicks is reached. In that case it is appropriate to verify the bid instead of refund it. If you want you can refund but that will result as bad rating for your address and your new bids may not be accepted.",
-    "WARNING_TARGET_REACHED_REFUND_CHECKBOX": "By accepting this checkbox you can refund this bid anyway."
+    "WARNING_TARGET_REACHED_REFUND_CHECKBOX": "By accepting this checkbox you can refund this bid anyway.",
+    "ALL_BIDS": "All bids ${0}"
 }
