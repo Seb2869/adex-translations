@@ -419,5 +419,6 @@
 	"WARNING_TARGET_REACHED_REFUND_CHECKBOX": "By accepting this checkbox you can refund this bid anyway.",
 	"ALL_BIDS": "All bids ${0}",
 	"BIDS_READY_TO_VERIFY": "Ready to verify",
-	"BIDS_ACTIVE": "Active"
+	"BIDS_ACTIVE": "Active",
+	"PROP_CREATEDON": "Created on"
 }
