@@ -371,6 +371,7 @@
 	"CONNECT_WITH_TREZOR": "Connect with TREZOR",
 	"TREZOR_WAITING_ACTION": "Waiting for TREZOR action. Please follow the instructions on TREZOR popup window and TREZOR device...",
 	"TREZOR_INFO": "TREZOR is a single purpose device which allows you to make secure Ethereum, Bitcoin and other crypto currencies transactions.",
+	"ERR_AUTH": "Authentication error: ${0}",
 	"ERR_AUTH_TREZOR": "TREZOR error: ${0}",
 	"ERR_AUTH_METAMASK": "METAMASK error: ${0}",
 	"ERR_AUTH_LEDGER": "LEDGER error: ${0}",
