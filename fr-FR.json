@@ -54,6 +54,8 @@
 	"CHART_LABEL_BIDS": "Bids",
 	"CHART_LABEL_CLICKS": "Clicks",
 	"CHART_LABEL_REVENUE": "Revenue",
+	"CHART_LABEL_UNIQUE_CLICKS": "Unique clicks",
+	"CHART_LABEL_IMPRESSIONS": "Impressions",
 	"TOTAL_REWARD": "Total reward",
 	"CONVERSION_GOALS": "Conversion goals",
 	"EXPIRATION_DATE": "Expiration date",
@@ -421,5 +423,10 @@
 	"ALL_BIDS": "All bids ${0}",
 	"BIDS_READY_TO_VERIFY": "Ready to verify",
 	"BIDS_ACTIVE": "Active",
-	"PROP_CREATEDON": "Created on"
+	"PROP_CREATEDON": "Created on",
+	"LABEL_LAST_24H": "Last 24 hours",
+	"LABEL_THIS_WEEK": "This week",
+	"LABEL_LAST_WEEK": "Last week",
+	"LABEL_THIS_MONTH": "This month",
+	"LABEL_LAST_MONTH": "Last month"
 }
