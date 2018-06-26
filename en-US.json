@@ -452,5 +452,6 @@
 	"LABEL_TOTAL_REVENUE": "Total revenue",
 	"LABEL_TOTAL_EXPENSES": "Total expenses",
 	"LABEL_AMOUNT_READY_TO_VERIFY": "Ready to verify",
-	"LABEL_OPEN_BIDS_AMOUNT": "Open bids amount"
+	"LABEL_OPEN_BIDS_AMOUNT": "Open bids amount",
+	"TITLE_STATS_BY_BID_STATUS": "Stats by bid status"
 }
