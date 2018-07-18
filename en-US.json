@@ -81,6 +81,8 @@
 	"TARGET": "Target",
 	"WEIGHT": "Weight",
 	"TARGET_WEIGHT_LABEL": "${0} weight: ${1} (${2})",
+	"TAGS_LABEL": "Tags",
+	"TAGS_PLACEHOLDER": "Click or type to select tag(s)",
 	"DRAG_AND_DROP_TO_UPLOAD": "Drag and drop or click here to upload",
 	"UNIT_BANNER": "Ad unit banner",
 	"CAMPAIGN_LOGO": "Campaign logo",
