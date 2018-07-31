@@ -136,6 +136,7 @@
 	"PROP_PASSCONFIRM": "Password confirm",
 	"PROP_SEED": "Seed",
 	"PROP_EMAIL": "Email",
+	"PROP_TAGS": "Tags",
 	"BID_TIMEOUT_MINUTE": "${0} minute",
 	"BID_TIMEOUT_MINUTES": "${0} minutes",
 	"BID_TIMEOUT_HOUR": "${0} hour",
@@ -467,5 +468,6 @@
 	"BUY_SELL_ADX_AIRSWAP_DIALOG_TITLE": "Buy/Sell ADX with AirSwap",
 	"AIRSWAP_WARNING_MSG": "Important: Make sure you log in to AdEx and AirSwap with the same Metamask, Trezor or Ledger account to see your ADX tokens appear in your balance!",
 	"AIRSWAP_WARNING": "Important notice",
-	"TRANSACTION_CANCELED": "The transaction was canceled"
+	"TRANSACTION_CANCELED": "The transaction was canceled",
+	"CREATE_TAG_LABEL": "Click here to create tag"
 }
