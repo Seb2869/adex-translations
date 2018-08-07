@@ -81,6 +81,8 @@
 	"TARGET": "Target",
 	"WEIGHT": "Weight",
 	"TARGET_WEIGHT_LABEL": "${0} weight: ${1} (${2})",
+	"TAGS_LABEL": "Tags",
+	"TAGS_PLACEHOLDER": "Click or type to select tag(s)",
 	"DRAG_AND_DROP_TO_UPLOAD": "Drag and drop or click here to upload",
 	"UNIT_BANNER": "Ad unit banner",
 	"CAMPAIGN_LOGO": "Campaign logo",
@@ -134,6 +136,7 @@
 	"PROP_PASSCONFIRM": "Password confirm",
 	"PROP_SEED": "Seed",
 	"PROP_EMAIL": "Email",
+	"PROP_TAGS": "Tags",
 	"BID_TIMEOUT_MINUTE": "${0} minute",
 	"BID_TIMEOUT_MINUTES": "${0} minutes",
 	"BID_TIMEOUT_HOUR": "${0} hour",
@@ -373,11 +376,13 @@
 	"UNIT_TYPE_DATA_STEP": "Ad details",
 	"UNIT_BANNER_STEP": "Ad creative",
 	"UNIT_TARGETS_STEP": "Audiences",
+	"UNIT_TAGS_STEP": "Tags",
 	"CAMPAIGN_BASIC_STEP": "Description",
 	"CAMPAIGN_PERIOD_STEP": "Period",
 	"SLOT_BASIC_STEP": "Description",
 	"SLOT_TYPE_DATA_STEP": "Type and size",
 	"SLOT_IMAGES_STEP": "Fallback info",
+	"SLOT_TAGS_STEP": "Tags",
 	"CHANNEL_BASIC_STEP": "Description",
 	"PLACE_BID_SAVE_BTN": "Place bid",
 	"BID_DATA_STEP": "Bid details",
@@ -463,5 +468,6 @@
 	"BUY_SELL_ADX_AIRSWAP_DIALOG_TITLE": "Buy/Sell ADX with AirSwap",
 	"AIRSWAP_WARNING_MSG": "Important: Make sure you log in to AdEx and AirSwap with the same Metamask, Trezor or Ledger account to see your ADX tokens appear in your balance!",
 	"AIRSWAP_WARNING": "Important notice",
-	"TRANSACTION_CANCELED": "The transaction was canceled"
+	"TRANSACTION_CANCELED": "The transaction was canceled",
+	"CREATE_TAG_LABEL": "Click here to create tag"
 }
