@@ -469,5 +469,6 @@
 	"AIRSWAP_WARNING_MSG": "Important: Make sure you log in to AdEx and AirSwap with the same Metamask, Trezor or Ledger account to see your ADX tokens appear in your balance!",
 	"AIRSWAP_WARNING": "Important notice",
 	"TRANSACTION_CANCELED": "The transaction was canceled",
-	"CREATE_TAG_LABEL": "Click here to create tag"
+	"CREATE_TAG_LABEL": "Click here to create tag",
+	"COPIED_TO_CLIPBOARD": "Copied to clipboard"
 }
