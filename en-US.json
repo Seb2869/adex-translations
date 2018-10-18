@@ -470,5 +470,11 @@
 	"AIRSWAP_WARNING": "Important notice",
 	"TRANSACTION_CANCELED": "The transaction was canceled",
 	"CREATE_TAG_LABEL": "Click here to create tag",
-	"COPIED_TO_CLIPBOARD": "Copied to clipboard"
+	"COPIED_TO_CLIPBOARD": "Copied to clipboard",
+	"DEMO_MODE": "Demo mode",
+	"DEMO_MODE_DESCRIPTION": "Try demo mode for quick overview of the platform. Temporary account with limited permissions will be created. Do not send any assets to this account because they will be lost !!!",
+	"DEMO_AUTH": "Try demo now",
+	"DEMO_ACCOUNT_ETH_ADDRESS": "Demo ETH address. Do not send any assets to this address !!!",
+	"DEMO_MODE_ACTION_DESCRIPTION": "You need non demo authentication to perform this action.",
+	"DEMO_GO_AUTH_BTN": "Go to authentication"
 }
