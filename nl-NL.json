@@ -534,5 +534,12 @@
 	"ERR_MARKET_REQUEST": "Market request error: ${1}",
 	"IDENTITY_PREDEPLOY_INFO": "This is your identity address. It's not active yet. You need to deploy it on ethereum mainnet. You will be asked to sign transaction with your wallet that will generate the identity contract. After you sign the transaction you have to sign a message that will authenticate your wallet as owner of the identity on \"adex-mareket\"",
 	"SIGN_IDENTITY_TX_NOW": "Deploy your identity",
+	"ERR_ACCESS_CODE_FORMAT": "Invalid access code format",
+	"ERR_ACCESS_CODE_NOT_EXIST": "Access code does not exist",
+	"ERR_ACCESS_CODE_USED": "Access code used",
+	"ACCESS_CODE_INFO": "The platform is still in closed testing period, if you have access code you can continue. The platform will be open fore everyone in very short time.",
+	"ENTER_VALID_CODE": "Enter access code",
+	"ERR_COUPON_NETWORK": "Error getting coupon data",
+	"ERR_ACCESS_CODE_NETWORK": "Error getting access code",
 	"": ""
 }
