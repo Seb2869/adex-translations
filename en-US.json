@@ -647,5 +647,7 @@
 	"ACCOUNT_TRANSFER_ETH_BTN": "Transfer ETH",
 	"ACCOUNT_WITHDRAW_TOKEN_BTN": "Transfer DAI",
 	"WALLET_DEPOSIT_TO_IDENTITY_BTN": "Deposit to identity",
+	"PROP_STATUS": "Status",
+	"OPEN_CAMPAIGN": "Open campaign",
 	"": ""
 }
