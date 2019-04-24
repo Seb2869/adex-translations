@@ -661,5 +661,6 @@
 	"ACCOUNT_TRANSFER_ETH_STEP": "ETH amount",
 	"ACCOUNT_WITHDRAW_TOKEN_TITLE": "Transfer DAI from wallet",
 	"ACCOUNT_WITHDRAW_TOKEN_STEP": "DAI amount",
+	"WALLET_INFO_LABEL": "${0} wallet address, privileges: ${0}",
 	"": ""
 }
