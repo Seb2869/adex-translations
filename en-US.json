@@ -662,5 +662,13 @@
 	"ACCOUNT_WITHDRAW_TOKEN_TITLE": "Transfer DAI from wallet",
 	"ACCOUNT_WITHDRAW_TOKEN_STEP": "DAI amount",
 	"WALLET_INFO_LABEL": "${0} wallet address, privileges: ${0}",
+	"UPLOAD_ACCOUNT_DATA_JSON": "Upload adex-account-data.json",
+	"INVALID_JSON_DATA": "Invalid data format",
+	"ERR_UPLOADING_ACCOUNT_DATA": "Error uploading account JSON data: ${0}",
+	"SUCCESS_UPLOADING_ACCOUNT_DATA": "Account",
+	"ABORTING_DATA_UPLOAD": "Data upload aborted.",
+	"": "",
+	"": "",
+	"": "",
 	"": ""
 }
