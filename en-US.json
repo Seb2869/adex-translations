@@ -675,5 +675,6 @@
 	"ADD_NEW_CUSTOM_TARGET": "Add new custom target",
 	"ERR_ZERO_CPM": "CPM price must be over 0",
 	"ERR_ZERO_DEPOSIT": "Deposit amount must be more than 0",
-	"": ""
+	"404_TEXT": "Nothing to see here. We haven't BUIDL-ED what you're looking for.",
+	"GO_HOME": "Go to home page"
 }
