@@ -677,5 +677,6 @@
 	"ERR_ZERO_DEPOSIT": "Deposit amount must be more than 0",
 	"404_TEXT": "Nothing to see here. We haven't BUIDL-ED what you're looking for.",
 	"GO_HOME": "Go to home page",
-	"ERR_CLOSING_CAMPAIGN": "Error on campaign closing: ${0}"
+	"ERR_CLOSING_CAMPAIGN": "Error on campaign closing: ${0}",
+	"ERR_NO_DATE_SET": "No dates set"
 }
