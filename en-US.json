@@ -518,7 +518,7 @@
 	"SET_IDENTITY_OWNER_ADDRESS": "Select wallet",
 	"GENERATE_IDENTITY_CONTRACT_ADDRESS": "Get identity data",
 	"DEPLOY_IDENTITY_CONTRACT_ADDRESS": "Deploy identity contract",
-	"METAMASK_CONTINUE_TO_NEXT_STEP": "This is you MetaMask address, press CONTINUE",
+	"METAMASK_CONTINUE_TO_NEXT_STEP": "This is your MetaMask address, press CONTINUE",
 	"AUTH_WITH_METAMASK_ALT": "Auth with MetaMask",
 	"AUTH_WITH_TREZOR": "Auth with Trezor",
 	"AUTH_WITH_LEDGER": "Auth with ledger",
@@ -677,5 +677,8 @@
 	"ERR_ZERO_DEPOSIT": "Deposit amount must be more than 0",
 	"404_TEXT": "Nothing to see here. We haven't BUIDL-ED what you're looking for.",
 	"GO_HOME": "Go to home page",
-	"ERR_CLOSING_CAMPAIGN": "Error on campaign closing: ${0}"
+	"ERR_CLOSING_CAMPAIGN": "Error on campaign closing: ${0}",
+	"BTN_CLOSE_CAMPAIGN": "Close campaign",
+	"ERR_INVALID_AMOUNT": "Invalid amount: ${0}",
+	"PROP_DISTRIBUTED": "Distributed ${0}"
 }
