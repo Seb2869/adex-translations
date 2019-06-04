@@ -680,5 +680,6 @@
 	"ERR_CLOSING_CAMPAIGN": "Error on campaign closing: ${0}",
 	"BTN_CLOSE_CAMPAIGN": "Close campaign",
 	"ERR_INVALID_AMOUNT": "Invalid amount: ${0}",
-	"PROP_DISTRIBUTED": "Distributed ${0}"
+	"PROP_DISTRIBUTED": "Distributed ${0}",
+	"ERR_NO_DATE_SET": "No dates set"
 }
