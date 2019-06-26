@@ -681,5 +681,6 @@
 	"BTN_CLOSE_CAMPAIGN": "Close campaign",
 	"ERR_INVALID_AMOUNT": "Invalid amount: ${0}",
 	"PROP_DISTRIBUTED": "Distributed ${0}",
-	"ERR_NO_DATE_SET": "No dates set"
+    "ERR_NO_DATE_SET": "No dates set",
+    "FALLBACK_UNIT_IPFS_ID_ERR": "Unit id should be a valid ipfs hash"
 }
