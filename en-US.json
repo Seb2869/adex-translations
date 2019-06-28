@@ -581,7 +581,7 @@
 	"PROP_COUPON": "Voucher code",
 	"PROP_EMAILCHECK": "Confirm email",
 	"PROP_PASSWORDCHECK": "Confirm password",
-	"PROP_DEPOSIT": "Depost amount",
+	"PROP_DEPOSIT": "Deposit amount",
 	"PROP_CPM": "CPM (per 1000)",
 	"PROP_CREATED": "Created",
 	"PROP_STARTS": "Starts",
@@ -635,7 +635,7 @@
 	"TARGET_SCORE_LABEL": "Score ${0}",
 	"NEW_TARGET": "Add new target",
 	"PROP_FALLBACKTARGETURL": "Fallback target url",
-	"FALLBACKTARGETURL_HELPER": "This url will be open in case of missing an units",
+	"FALLBACKTARGETURL_HELPER": "This url will be open in case of no matching ad units",
 	"SLOT_FALLBACK_MEDIA_LABEL": "Fallback media",
 	"SLOT_FALLBACK_MEDIA_INFO": "This is you slot fallback media. Upload image ${0} x ${1} ${2}",
 	"ERR_STATS": "Error getting stats: ${0}",
@@ -682,5 +682,10 @@
 	"ERR_INVALID_AMOUNT": "Invalid amount: ${0}",
 	"PROP_DISTRIBUTED": "Distributed ${0}",
     "ERR_NO_DATE_SET": "No dates set",
-    "FALLBACK_UNIT_IPFS_ID_ERR": "Unit id should be a valid ipfs hash"
+    "FALLBACK_UNIT_IPFS_ID_ERR": "Unit id should be a valid ipfs hash",
+    "USE_FALLBACK_DATA": "Use passback unit",
+    "USE_FALLBACK_DATA_INFO": "If you select a passback image and URL, they will be displayed when no matching ads are available for this slot. Otherwise the ad slot will be hidden automatically.",
+    "USE_FALLBACK_DATA_INFO_2": "",
+    "SLOT_PASSBACK_STEP": "Passback",
+    "PASSBACK_ERR": "Passback should be boolean value"
 }
