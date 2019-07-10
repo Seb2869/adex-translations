@@ -715,5 +715,9 @@
 	"ACCOUNT_ADVANCED_INFO_AND_ACTIONS": "Advanced",
 	"MANAGE_IDENTITY": "Manage idenity",
 	"ERR_IDENTITY_SET_ADDR_PRIV_NOTIFICATION": "Error setting identity privileges: ${0}",
-	"IDENTITY_SET_ADDR_PRIV_NOTIFICATION": "Identity privileges transactions sent!"
+	"IDENTITY_SET_ADDR_PRIV_NOTIFICATION": "Identity privileges transactions sent!",
+	"INSUFFICIENT_BALANCE_FOR_FEES": "Insufficient balance for transaction fees. Identity avaialbe: ${0} ${1}, fees: ${2} ${3}",
+	"PRIV_LEVEL_INFO_AND_FEES": "You will pay ${0} ${1} from idenitity for this transaction",
+	"PROP_SETADDR": "Address to set privilege",
+	"PROP_PRIVLEVEL": "Privilege level"
 }
