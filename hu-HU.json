@@ -713,5 +713,7 @@
 	"SELECT_PRIV_LEVEL_HELPER_TXT": "Choose wisely",
 	"ACCOUNT_SET_IDENTITY_PRIVILEGE_SAVE_BTN": "Set privileges",
 	"ACCOUNT_ADVANCED_INFO_AND_ACTIONS": "Advanced",
-	"MANAGE_IDENTITY": "Manage idenity"
+	"MANAGE_IDENTITY": "Manage idenity",
+	"ERR_IDENTITY_SET_ADDR_PRIV_NOTIFICATION": "Error setting identity privileges: ${0}",
+	"IDENTITY_SET_ADDR_PRIV_NOTIFICATION": "Identity privileges transactions sent!"
 }
