@@ -706,10 +706,10 @@
 	"ACCOUNT_SET_IDENTITY_PRIVILEGE_BTN": "Set identity privileges",
 	"ACCOUNT_SET_IDENTITY_PRIVILEGE_TITLE": "Set identity privileges",
 	"ACCOUNT_SET_IDENTITY_PRIVILEGE_STEP": "Privileges data",
-	"SET_IDENTITY_PRIVILEGE_MAIN_INFO": "You can authorize current and other wallet addresses to interact with this identity contract. You can set different levels of access including removin in. To change identity privileges you need at lest \"Transactions\" privilege level. Please be carefull when using this action.",
+	"SET_IDENTITY_PRIVILEGE_MAIN_INFO": "You can authorize current and other wallet addresses to interact with this identity contract. You can set different levels of access including removing it. To change identity privileges you need at least \"Transactions\" privilege level. Please be careful when using this action.",
 	"ADDR_TO_SET_PRIV_LEVEL": "Wallet address to set privilege level",
 	"ADDR_TO_SET_PRIV_LEVEL_HELPER_TXT": "Checksumed ETH address is required",
-	"SELECT_PRIV_LEVEL": "Select privileg level",
+	"SELECT_PRIV_LEVEL": "Select privilegе level",
 	"SELECT_PRIV_LEVEL_HELPER_TXT": "Choose wisely",
 	"ACCOUNT_SET_IDENTITY_PRIVILEGE_SAVE_BTN": "Set privileges",
 	"ACCOUNT_ADVANCED_INFO_AND_ACTIONS": "Advanced",
@@ -719,5 +719,6 @@
 	"INSUFFICIENT_BALANCE_FOR_FEES": "Insufficient balance for transaction fees. Identity avaialbe: ${0} ${1}, fees: ${2} ${3}",
 	"PRIV_LEVEL_INFO_AND_FEES": "You will pay ${0} ${1} from idenitity for this transaction",
 	"PROP_SETADDR": "Address to set privilege",
-	"PROP_PRIVLEVEL": "Privilege level"
+	"PROP_PRIVLEVEL": "Privilege level",
+	"ERR_IDENTITY_WITHDRAW_NOTIFICATION": "Error on withdrow from identity: ${0}"
 }
