@@ -689,7 +689,7 @@
 	"SLOT_PASSBACK_STEP": "Passback",
 	"PASSBACK_ERR": "Passback should be boolean value",
 	"ACCOUNT_WITHDRAW_FROM_IDENTITY_TITLE": "Withdraw from identity",
-	"EXCHANGE_CURRENT_DAI_BALANCE_AVAILABLE_ON_IDENTITY": "Abailabel on identity: ${0} DAI",
+	"EXCHANGE_CURRENT_DAI_BALANCE_AVAILABLE_ON_IDENTITY": "Available on identity: ${0} DAI",
 	"ACCOUNT_WITHDRAW_FROM_IDENTITY_STEP": "Withdraw data",
 	"ACCOUNT_WITHDRAW_FROM_IDENTITY_BTN": "Withdraw from identity",
 	"ACCOUNT_WITHDRAW_FROM_IDENTITY_SAVE_BTN": "Withdraw",
