@@ -491,8 +491,8 @@
 	"DEMO_ACCOUNT_INFO_2": "Quick view of the platform",
 	"DEMO_ACCOUNT_INFO_3": "Limited access",
 	"DEMO_ACCOUNT_INFO_4": "No wallet needed",
-	"CREATE_GRANT_ACCOUNT": "Sign up",
-	"LOGIN_GRANT_ACCOUNT": "Login",
+	"CREATE_GRANT_ACCOUNT": "Create grant account",
+	"LOGIN_GRANT_ACCOUNT": "Login grant account",
 	"CREATE_FULL_ACCOUNT": "Sign up",
 	"LOGIN_FULL_ACCOUNT": "Login",
 	"GO_DEMO_ACCOUNT": "Go",
@@ -723,5 +723,9 @@
 	"ERR_IDENTITY_WITHDRAW_NOTIFICATION": "Error on withdrow from identity: ${0}",
 	"OPENING_CAMPAIGN_SENT_TO_RELAYER": "Opening campaign ('${0}')transaction sent!",
 	"ERR_OPENING_CAMPAIGN": "Error opening cmpaign: ${0}",
-	"GET_IN_TOUCH": "Hey! We're happy you are interested in AdEx Network. Currently, the platform is invite-only. Get in touch with us to discuss the possibility of you getting exclusive access."
+	"GET_IN_TOUCH": "Hey! We're happy you are interested in AdEx Network. Currently, the platform is invite-only. Get in touch with us to discuss the possibility of you getting exclusive access.",
+	"FUTURE_OF_THE_ADS": "Open-source, transparent & fraud-proof display advertising",
+	"FUTURE_OF_THE_ADS_INFO_1": "AdEx is trust-minimized solution for digital advertising that reduces ad fraud, improves ad budgets and protects user privacy.",
+	"FUTURE_OF_THE_ADS_INFO_2": "The AdEx platform is built on the Ethereum blockchain to connect publishers and advertisers without intermediaries on a decentralized ad exchange. We introduce real-time reporting for both parties and enable payments per impression with no withdrawal threshold for publishers.",
+	"FUTURE_OF_THE_ADS_INFO_3": "Moreover, AdEx Network is built with full respect towards end users’ data - we don’t store any. "
 }
