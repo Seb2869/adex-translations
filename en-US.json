@@ -730,5 +730,6 @@
 	"FUTURE_OF_THE_ADS_INFO_3": "Moreover, AdEx Network is built with full respect towards end users’ data - we don’t store any. ",
 	"USE_EXISTING_IDENTITY": "Use existing identity",
 	"CREATE_NEW_IDENTITY": "Creae new identity",
-	"SELECT_EXISTING_IDENTITY": "Select idenity"
+	"SELECT_EXISTING_IDENTITY": "Select idenity",
+	"CONNECT_STANDARD_IDENTITY": "Connect identity"
 }
