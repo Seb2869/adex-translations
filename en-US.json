@@ -701,7 +701,7 @@
 	"IDENTITY_OPTION_DATA": "identity: ${0}, privileges: ${1}, balance: ${2} ${3}",
 	"SELECT_IDENTITY": "Select identity",
 	"SELECT_IDENTITY_INFO": "Select identiy to connect with",
-	"FULL_LOGIN_INFO": "Select identity contract to creat session",
+	"FULL_LOGIN_INFO": "Select identity contract to create session",
 	"LOGIN_STANDARD_IDENTITY": "Select identity",
 	"ACCOUNT_SET_IDENTITY_PRIVILEGE_BTN": "Set identity privileges",
 	"ACCOUNT_SET_IDENTITY_PRIVILEGE_TITLE": "Set identity privileges",
