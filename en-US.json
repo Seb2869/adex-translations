@@ -727,5 +727,8 @@
 	"FUTURE_OF_THE_ADS": "Open-source, transparent & fraud-proof display advertising",
 	"FUTURE_OF_THE_ADS_INFO_1": "AdEx is trust-minimized solution for digital advertising that reduces ad fraud, improves ad budgets and protects user privacy.",
 	"FUTURE_OF_THE_ADS_INFO_2": "The AdEx platform is built on the Ethereum blockchain to connect publishers and advertisers without intermediaries on a decentralized ad exchange. We introduce real-time reporting for both parties and enable payments per impression with no withdrawal threshold for publishers.",
-	"FUTURE_OF_THE_ADS_INFO_3": "Moreover, AdEx Network is built with full respect towards end users’ data - we don’t store any. "
+	"FUTURE_OF_THE_ADS_INFO_3": "Moreover, AdEx Network is built with full respect towards end users’ data - we don’t store any. ",
+	"USE_EXISTING_IDENTITY": "Use existing identity",
+	"CREATE_NEW_IDENTITY": "Creae new identity",
+	"SELECT_EXISTING_IDENTITY": "Select idenity"
 }
