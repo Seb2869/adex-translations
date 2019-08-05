@@ -655,7 +655,7 @@
 	"WALLET_DEPOSIT_TO_IDENTITY_SAVE_BTN": "Deposit to identity",
 	"WALLET_CURRENT_BALANCE_AVAILABLE": "Wallet ${0} balance:",
 	"TRANSACTION_ERR_MSG": "Transaction error: ${0}",
-	"TX_SEND_DAI_TO_IDENTITY": "Transfer DAI from wallet to idenity",
+	"TX_SEND_DAI_TO_IDENTITY": "Transfer DAI from wallet to identity",
 	"NO_STATS_YET": "Statistics not available yet",
 	"ACCOUNT_TRANSFER_ETH_TITLE": "Transfer ETH from wallet",
 	"ACCOUNT_TRANSFER_ETH_STEP": "ETH amount",
@@ -729,7 +729,7 @@
 	"FUTURE_OF_THE_ADS_INFO_2": "The AdEx platform is built on the Ethereum blockchain to connect publishers and advertisers without intermediaries on a decentralized ad exchange. We introduce real-time reporting for both parties and enable payments per impression with no withdrawal threshold for publishers.",
 	"FUTURE_OF_THE_ADS_INFO_3": "Moreover, AdEx Network is built with full respect towards end users’ data - we don’t store any. ",
 	"USE_EXISTING_IDENTITY": "Use existing identity",
-	"CREATE_NEW_IDENTITY": "Creae new identity",
+	"CREATE_NEW_IDENTITY": "Create new identity",
 	"SELECT_EXISTING_IDENTITY": "Select idenity",
 	"CONNECT_STANDARD_IDENTITY": "Connect identity"
 }
