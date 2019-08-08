@@ -732,5 +732,6 @@
 	"CREATE_NEW_IDENTITY": "Create new identity",
 	"SELECT_EXISTING_IDENTITY": "Select idenity",
 	"CONNECT_STANDARD_IDENTITY": "Connect identity",
-	"CREATE_NEW_IDENTITY_LINK": "Don't have an idenity? Create a one."
+	"CREATE_NEW_IDENTITY_LINK": "Don't have an idenity? Create a one.",
+	"CAMPAIGN_MIN_TARGETING": "Only show ad if targeting matches"
 }
