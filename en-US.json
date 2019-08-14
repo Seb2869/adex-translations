@@ -733,5 +733,10 @@
 	"SELECT_EXISTING_IDENTITY": "Select idenity",
 	"CONNECT_STANDARD_IDENTITY": "Connect identity",
 	"CREATE_NEW_IDENTITY_LINK": "Don't have an idenity? Create a one.",
-	"CAMPAIGN_MIN_TARGETING": "Only show ad if targeting matches"
+	"CAMPAIGN_MIN_TARGETING": "Only show ad if targeting matches",
+	"SIGN_IN_TO": "Sign in to ${0}",
+	"QUICK_LOGIN_INFO": "Log in with ${0}",
+	"ERR_QUICK_WALLET_LOGIN": "Invalid password",
+	"CHECK_QUICK_IDENTITY": "Submit password",
+	"QUICK_LOGIN": "Quick account"
 }
