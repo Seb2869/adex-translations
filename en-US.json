@@ -738,5 +738,6 @@
 	"QUICK_LOGIN_INFO": "Log in with ${0}",
 	"ERR_QUICK_WALLET_LOGIN": "Invalid password",
 	"CHECK_QUICK_IDENTITY": "Submit password",
-	"QUICK_LOGIN": "Quick account"
+	"QUICK_LOGIN": "Quick account",
+	"ADD_UTM_LINK":"Add tracking if not present"
 }
