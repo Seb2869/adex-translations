@@ -186,6 +186,7 @@
 	"ACCOUNT_DEPOSIT_TO_EXCHANGE_SAVE_BTN": "Sign and deposit",
 	"ERR_INVALID_ETH_ADDRESS": "Invalid ethereum address",
 	"ERR_INVALID_ETH_ADDRESS_ZERO": "Ethereum address can't be 0x0000...0000",
+	"ERR_INVALID_ETH_ADDRESS_TOKEN": "Ethereum address can't be ERC20 token",
 	"ERR_WITHDRAW_TO_YOUR_ADDR_IF_YOU_WANT_WITHDRAW": "You can not withdraw to your address. (You can but we will not let you do it because it is just waste of gas)",
 	"ERR_IMG_SIZE_EXACT": "Image size must be exact ${0} x ${1} ${2}",
 	"IMG_INFO_SIZE": "Upload image ${0} x ${1} ${2}",
