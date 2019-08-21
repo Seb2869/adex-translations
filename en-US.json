@@ -545,6 +545,7 @@
 	"ERR_COUPON_NETWORK": "Error getting voucher data",
 	"ERR_ACCESS_CODE_NETWORK": "Error getting access code",
 	"ERR_REGISTER_GRANT_IDENTITY": "Error registering grant identity: ${0}",
+	"ERR_VALIDATING_ETH_ADDRESS": "Error validating Ethereum address: ${0}",
 	"SERVICE_ERROR_MSG": "service: ${0}, status: [${1}] - ${2}, message: ${3}",
 	"ERR_GETTING_SESSION": "Error getting auth session: ${0}",
 	"CHECK_GRANT_IDENTITY": "Check credentials",
