@@ -356,6 +356,7 @@
 	"LABEL_ARCHIVED": "Archived",
 	"LABEL_ALL": "All",
 	"TOOLTIP_ARCHIVE": "Archive",
+	"TOOLTIP_CLONE": "Clone",
 	"TOOLTIP_UNARCHIVE": "Unarchive",
 	"ARCHIVE_ITEM": "Archive ${0} \"${1}\"",
 	"CLONE_ITEM": "Clone ${0} \"${1}\"",
