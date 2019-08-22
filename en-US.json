@@ -747,5 +747,6 @@
 	"ERR_QUICK_WALLET_LOGIN": "Invalid password",
 	"CHECK_QUICK_IDENTITY": "Submit password",
 	"QUICK_LOGIN": "Quick account",
-	"ADD_UTM_LINK":"Add Google UTM tracking if not present"
+	"ADD_UTM_LINK":"Add Google UTM tracking if not present",
+	"ERR_CAMPAIGN_REQUIRES_UNITS": "You should have at least one ad unit to create a campaign. Add an add unit by clicking the button below."
 }
