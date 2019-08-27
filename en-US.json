@@ -648,6 +648,7 @@
 	"SLOT_FALLBACK_MEDIA_LABEL": "Fallback media",
 	"SLOT_FALLBACK_MEDIA_INFO": "This is you slot fallback media. Upload image ${0} x ${1} ${2}",
 	"ERR_STATS": "Error getting stats: ${0}",
+	"ERR_SETTINGS": "Error getting settings: ${0}",
 	"WALLET_ETH_ADDR": "Wallet ETH address",
 	"WALLET_ETH_BALANCE": "Wallet balance ETH",
 	"WALLET_DAI_BALANCE": "Wallet balance DAI",
