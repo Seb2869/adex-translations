@@ -749,6 +749,10 @@
 	"ERR_QUICK_WALLET_LOGIN": "Invalid password",
 	"CHECK_QUICK_IDENTITY": "Submit password",
 	"QUICK_LOGIN": "Quick account",
-	"ADD_UTM_LINK":"Add Google UTM tracking if not present",
-	"ERR_CAMPAIGN_REQUIRES_UNITS": "You should have at least one ad unit to create a campaign. Add an add unit by clicking the button below."
+	"ADD_UTM_LINK": "Add Google UTM tracking if not present",
+	"ERR_CAMPAIGN_REQUIRES_UNITS": "You should have at least one ad unit to create a campaign. Add an add unit by clicking the button below.",
+	"WATNING_METAMASK_INVALID_NETWORK": "METAMASK network error! Pleasee switch your METAMASK to \"${0}\" network",
+	"SLOT_MIN_CPM": "Min CPM",
+	"MIN_CPM_SLOT_LABEL": "Min CPM",
+	"SLOT_MIN_CPM_HELPER": "Units with lower CPM will not be desplayed at this ad space"
 }
