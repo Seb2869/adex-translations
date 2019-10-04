@@ -755,5 +755,18 @@
 	"SLOT_MIN_CPM": "Min CPM  (${0})",
 	"MIN_CPM_SLOT_LABEL": "Min CPM (${0})",
 	"SLOT_MIN_CPM_HELPER": "Units with lower CPM will not be desplayed at this ad space",
-	"INVALID_ITEM_TYPE": "Invalid item type"
+	"INVALID_ITEM_TYPE": "Invalid item type",
+	"SELECT_TIMEFRAME": "Timeframe",
+	"SELECT_METRICS": "Metrics",
+	"TOTAL_EVENTPAYOUTS_IMPRESSION": "Total payouts for impresions",
+	"TOTAL_EVENTCOUNTS_IMPRESSION": "Total impressions",
+	"LABEL_HOUR": "Hour",
+	"LABEL_DAY": "Day",
+	"LABEL_WEEK": "Week",
+	"LABEL_MONTH": "Month",
+	"LABEL_YEAR": "Year",
+	"LABEL_REVENUE": "Revenue",
+	"LABEL_IMPRESSIONS": "Impressions",
+	"LABEL_SPENT": "Spent",
+	"": ""
 }
