@@ -768,5 +768,11 @@
 	"LABEL_REVENUE": "Revenue",
 	"LABEL_IMPRESSIONS": "Impressions",
 	"LABEL_SPENT": "Spent",
-	"": ""
+	"SIGN_VALIDATORS_AUTH": "Check your auth method and sign auth token to get your statistics!",
+	"VALIDATOR_LEADER_ID": "Advertisers platform ID: ${0}",
+	"VALIDATOR_FOLLOWER_ID": "Publishers platform ID: ${0}",
+	"VALIDATOR_LEADER_URL": "Address: ${0}",
+	"VALIDATOR_FOLLOWER_URL": "Address: ${0}",
+	"ERR_ANALYTICS_SINGLE": "Error on analytics request: ${0}",
+	"ERR_ANALYTICS": "Error on getting analytics: ${0}"
 }
