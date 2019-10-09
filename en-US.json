@@ -767,7 +767,7 @@
 	"LABEL_YEAR": "Year",
 	"LABEL_REVENUE": "Revenue",
 	"LABEL_IMPRESSIONS": "Impressions",
-	"LABEL_SPENT": "Spent",
+	"LABEL_SPEND": "Spend",
 	"SIGN_VALIDATORS_AUTH": "Check your auth method and sign auth token to get your statistics!",
 	"VALIDATOR_LEADER_ID": "Advertisers platform ID: ${0}",
 	"VALIDATOR_FOLLOWER_ID": "Publishers platform ID: ${0}",
