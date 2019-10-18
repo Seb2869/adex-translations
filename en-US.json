@@ -682,6 +682,7 @@
 	"ERR_TOS_CHECK": "You must accept Terms and Conditions to continue",
 	"ERR_GETTING_CAMPAIGN_LAST_STATUS": "Error getting campaign last state: ${0}",
 	"TARGET_LABEL_CUSTOM": "Create custom targeting tag",
+	"TARGETING_REQUIRED": "Targeting field is required",
 	"ADD_NEW_CUSTOM_TARGET": "Add new custom target",
 	"ERR_ZERO_CPM": "CPM price must be over 0",
 	"ERR_ZERO_DEPOSIT": "Deposit amount must be more than 0",
