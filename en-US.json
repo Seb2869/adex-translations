@@ -784,5 +784,6 @@
 	"CREATE_QUICK_ACCOUNT": "Create quick account",
 	"QUICK_WALLET_ADDRESS": "Your quick wallet address is: ${0}",
 	"QUICK_WALLET_ADDRESS_INFO": "This is you local storage wallet address. We will send you an email when your identity is ready. Please keep in mind that this wallet is encrypted with your email and password in the browser's local storage. We don't keep any data. If you delete your local storage, forget password or email, you won't be able to sign in. In that case please contact us.",
-	"CONTINUE_AS": "Continue as: ${0} (${1})"
+	"CONTINUE_AS": "Continue as: ${0} (${1})",
+	"TOP_UP_IDENTITY": "Top up identiy"
 }
