@@ -794,5 +794,5 @@
 	"LEADER_STATUS": "Check status on leader validator",
 	"FOLLOWER_STATUS": "Check status on follower validator",
 	"LEADER_LAST_APPROVED": "Check last approved messages on leader validator",
-	"FOLLOWER_LAST_APPROVED": "Check last approved messages on leader validator",
+	"FOLLOWER_LAST_APPROVED": "Check last approved messages on leader validator"
 }

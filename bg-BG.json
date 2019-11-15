@@ -787,5 +787,12 @@
 	"QUICK_WALLET_ADDRESS_INFO": "This is you local storage wallet address. We will send you an email when your identity is ready. Please keep in mind that this wallet is encrypted with your email and password in the browser's local storage. We don't keep any data. If you delete your local storage, forget password or email, you won't be able to sign in. In that case please contact us.",
 	"CONTINUE_AS": "Continue as: ${0} (${1})",
 	"TOP_UP_IDENTITY_EUR": "Top up with EUR",
-	"IDENTITY_DAI_BALANCE_AVAILABLE_TOTAL": "Total balance"
+	"TOP_UP_IDENTITY_GBP": "Top up with GBP",
+	"IDENTITY_DAI_BALANCE_AVAILABLE_TOTAL": "Total balance",
+	"CAMPAIGN_UNITS": "Campaign units",
+	"SUCCESS_CLOSING_CAMPAIGN": "Close campaign sent: ${0}",
+	"LEADER_STATUS": "Check status on leader validator",
+	"FOLLOWER_STATUS": "Check status on follower validator",
+	"LEADER_LAST_APPROVED": "Check last approved messages on leader validator",
+	"FOLLOWER_LAST_APPROVED": "Check last approved messages on leader validator"
 }
