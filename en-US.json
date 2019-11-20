@@ -799,12 +799,12 @@
 	"SHOWING_LAST_HOUR": "Showing last hour",
 	"SHOWING_LAST_24_HOURS": "Showing last 24 hours",
 	"SHOWING_LAST_7_DAYS": "Showing last 7 days",
-	"LABEL_TOTAL_IMPRESSIONS": "Total impressions",
+	"LABEL_TOTAL_IMPRESSIONS": "Total Impressions",
 	"EXPLAIN_TOTAL_IMPRESSIONS": "This shows the total impressions for the selected timeframe period",
-	"LABEL_TOTAL_SPENT": "Total spend",
+	"LABEL_TOTAL_SPENT": "Total Spend",
 	"EXPLAIN_TOTAL_SPENT": "Total spend in DAI on all campaigns for the selected timeframe and period",
-	"LABEL_TOTAL_REVENUE": "Total revenue",
-	"EXPLAIN_TOTAL_REVENUE": "Total revenue in DAI for all ad slots for the selected timeframe and period",
+	"LABEL_TOTAL_REVENUE": "Total Revenue",
+	"EXPLAIN_TOTAL_REVENUE": "Total revenue in DAI for all ad slots for the selected timeframe and period. This is rounded to two decimal places so it is an approximate value.",
 	"LABEL_AVG_CPM": "Average CPM",
-	"EXPLAIN_AVG_CPM": "Average cost per 1000 impressions based on the selected timeframe and period"
+	"EXPLAIN_AVG_CPM": "Average cost per 1000 impressions based on the selected timeframe and period.  This is rounded to two decimal places so it is an approximate value."
 }
