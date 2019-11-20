@@ -461,7 +461,6 @@
 	"CHART_DAILY_TITLE": "Daily data",
 	"LABEL_DD_SELECT_DAY": "Select day",
 	"DOWNLOAD_CSV_BTN": "Download CSV",
-	"LABEL_TOTAL_REVENUE": "Total revenue",
 	"LABEL_TOTAL_EXPENSES": "Total expenses",
 	"LABEL_AMOUNT_READY_TO_VERIFY": "Ready to verify",
 	"LABEL_OPEN_BIDS_AMOUNT": "Open bids amount",
@@ -796,5 +795,16 @@
 	"LEADER_LAST_APPROVED": "Check last approved messages on leader validator",
 	"FOLLOWER_LAST_APPROVED": "Check last approved messages on leader validator",
 	"NO_IDENTITIES_FOR_ADDR": "No identities for: ${0}",
-	"LOADING_DATA": "Loading data ..."
+	"LOADING_DATA": "Loading data ...",
+	"SHOWING_LAST_HOUR": "Showing last hour",
+	"SHOWING_LAST_24_HOURS": "Showing last 24 hours",
+	"SHOWING_LAST_7_DAYS": "Showing last 7 days",
+	"LABEL_TOTAL_IMPRESSIONS": "Total impressions",
+	"EXPLAIN_TOTAL_IMPRESSIONS": "This shows the total impressions for the selected timeframe period",
+	"LABEL_TOTAL_SPENT": "Total spend",
+	"EXPLAIN_TOTAL_SPENT": "Total spend in DAI on all campaigns for the selected timeframe and period",
+	"LABEL_TOTAL_REVENUE": "Total revenue",
+	"EXPLAIN_TOTAL_REVENUE": "Total revenue in DAI for all ad slots for the selected timeframe and period",
+	"LABEL_AVG_CPM": "Average CPM",
+	"EXPLAIN_AVG_CPM": "Average cost per 1000 impressions based on the selected timeframe and period"
 }
