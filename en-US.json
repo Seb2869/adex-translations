@@ -802,7 +802,7 @@
 	"LABEL_TOTAL_IMPRESSIONS": "Total Impressions",
 	"EXPLAIN_TOTAL_IMPRESSIONS": "This shows the total impressions for the selected timeframe period",
 	"LABEL_TOTAL_SPENT": "Total Spend",
-	"EXPLAIN_TOTAL_SPENT": "Total spend in DAI on all campaigns for the selected timeframe and period",
+	"EXPLAIN_TOTAL_SPENT": "Total spend in DAI on all campaigns for the selected timeframe and period. This is rounded to two decimal places so it is an approximate value.",
 	"LABEL_TOTAL_REVENUE": "Total Revenue",
 	"EXPLAIN_TOTAL_REVENUE": "Total revenue in DAI for all ad slots for the selected timeframe and period. This is rounded to two decimal places so it is an approximate value.",
 	"LABEL_AVG_CPM": "Average CPM",
