@@ -806,5 +806,17 @@
 	"LABEL_TOTAL_REVENUE": "Total Revenue",
 	"EXPLAIN_TOTAL_REVENUE": "Total revenue in DAI for all ad slots for the selected timeframe and period. This is rounded to two decimal places so it is an approximate value.",
 	"LABEL_AVG_CPM": "Average CPM",
-	"EXPLAIN_AVG_CPM": "Average cost per 1000 impressions based on the selected timeframe and period.  This is rounded to two decimal places so it is an approximate value."
+	"EXPLAIN_AVG_CPM": "Average cost per 1000 impressions based on the selected timeframe and period.  This is rounded to two decimal places so it is an approximate value.",
+	"SIGN_UP_IN": "Sign in/up",
+	"SIGN_UP_IN_SELECT": "Choose one of the options below",
+	"CONTINUE_NEW_AUTH": "OK",
+	"KEEP_MY_SESSION": "Cancel",
+	"CONFIR_DIALOG_NEW_AUTH_TITLE": "Existing session warning!",
+	"CONFIR_DIALOG_NEW_AUTH_TEXT": "You are currently logged in with ${0} ${1}. If you choose to continue your session will be closed.",
+	"QUICK_IDENTITY_ADDRESS": "Your quick identity address is: ${0}.",
+	"HOME_TITLE": "Welcome to AdEx Network Platform",
+	"HOME_SUBTITLE": "Open-source, transparent & fraud-proof display advertising",
+	"LINK_BENEFITS_FOR_PUBLISHERS": "Benefits for Publishers",
+	"LINK_BENEFITS_FOR_ADVERTISERS": "Benefits for Advertisers",
+	"LINK_ADEX_HOME": "AdEx Home"
 }
