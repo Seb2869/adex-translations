@@ -819,5 +819,6 @@
 	"LINK_BENEFITS_FOR_PUBLISHERS": "Benefits for Publishers",
 	"LINK_BENEFITS_FOR_ADVERTISERS": "Benefits for Advertisers",
 	"LINK_ADEX_HOME": "AdEx Home",
-	"ERR_GETTING_CATEGORY_SUGGESTIONS": "Error on getting category suggestions: ${0}"
+	"ERR_GETTING_CATEGORY_SUGGESTIONS": "Error on getting category suggestions: ${0}",
+	"URL_HELPER": "URL where you are going to display the ad slot"
 }
