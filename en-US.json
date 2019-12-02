@@ -818,5 +818,6 @@
 	"HOME_SUBTITLE": "Open-source, transparent & fraud-proof display advertising",
 	"LINK_BENEFITS_FOR_PUBLISHERS": "Benefits for Publishers",
 	"LINK_BENEFITS_FOR_ADVERTISERS": "Benefits for Advertisers",
-	"LINK_ADEX_HOME": "AdEx Home"
+	"LINK_ADEX_HOME": "AdEx Home",
+	"ERR_GETTING_CATEGORY_SUGGESTIONS": "Error on getting category suggestions: ${0}"
 }
