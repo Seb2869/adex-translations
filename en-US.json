@@ -820,5 +820,11 @@
 	"LINK_BENEFITS_FOR_ADVERTISERS": "Benefits for Advertisers",
 	"LINK_ADEX_HOME": "AdEx Home",
 	"ERR_GETTING_CATEGORY_SUGGESTIONS": "Error on getting category suggestions: ${0}",
-	"URL_HELPER": "URL where you are going to display the ad slot"
+	"URL_HELPER": "URL where you are going to display the ad slot",
+	"TARGET_LABEL_GOOGLE_VISION": "Select category",
+	"ADD_NEW_GOOGLECATEGORIES_TARGET": "Add new category",
+	"GET_CATEGORY_SUGGESTIONS": "Get category suggestions!",
+	"WAITING_CATEGORY_SUGGESTIONS": "Waiting for category suggestions...",
+	"NO_CATEGORY_SUGGESTION_FOUND": "No category suggestions found!",
+	"ADDED_CATEGORY_SUGGESTIONS_IF_MISSING": "Added all missing cateogries!"
 }
