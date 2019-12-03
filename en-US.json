@@ -755,7 +755,7 @@
 	"WATNING_METAMASK_INVALID_NETWORK": "METAMASK network error! Pleasee switch your METAMASK to \"${0}\" network",
 	"SLOT_MIN_CPM": "Min CPM  (${0})",
 	"MIN_CPM_SLOT_LABEL": "Min CPM (${0})",
-	"SLOT_MIN_CPM_HELPER": "Units with lower CPM will not be desplayed at this ad space",
+	"SLOT_MIN_CPM_HELPER": "Units with lower CPM will not be displayed at this ad space",
 	"INVALID_ITEM_TYPE": "Invalid item type",
 	"SELECT_TIMEFRAME": "Timeframe",
 	"SELECT_METRICS": "Metrics",
@@ -818,5 +818,10 @@
 	"HOME_SUBTITLE": "Open-source, transparent & fraud-proof display advertising",
 	"LINK_BENEFITS_FOR_PUBLISHERS": "Benefits for Publishers",
 	"LINK_BENEFITS_FOR_ADVERTISERS": "Benefits for Advertisers",
-	"LINK_ADEX_HOME": "AdEx Home"
+	"LINK_ADEX_HOME": "AdEx Home",
+	"TOKENS_BALANCE_AVAILABLE_ON_IDENTITY": "Tokens balance on identity: ${0} ${1}",
+	"ACCOUNT_WITHDRAW_ANY_FROM_IDENTITY_BTN": "Withdraw other tokens from identity",
+	"WITHDRAW_TOKEN_ADDRESS": "Token address",
+	"PROP_WTHDRAWTO": "Withdraw to",
+	"PROP_TOKENADDRESS": "Token address"
 }
