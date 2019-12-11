@@ -407,7 +407,8 @@
 	"SELECT_ADDR_TREZOR": "Select address from your TREZOR device to authenticate with",
 	"AUTH_WITH_METAMASK_BTN": "Authenticate address",
 	"AUTH_WITH_METAMASK_LABEL": "Metamask address: ${0}",
-	"METAMASK_WAITING_ACTION": "Waiting for METAMASK action. Please follow the instructions on METAMASK Add-on ... (If no popup is showed click on Add-on icon)",
+	"METAMASK_WAITING_ACTION": "Waiting for METAMASK action. Please follow the instructions on METAMASK Add-on...",
+	"METAMASK_WAITING_ACTION_INFO": "If no popup has appeared, click on the add-on icon in your browser's top right corner.",
 	"GAS_PRICE_LABEL": "Select gas price",
 	"GAS_PRICE_OPTION_LABEL": "${0} ${1} ~ ${2} min",
 	"OPERATION_FEE": "Operation costs",
@@ -831,6 +832,6 @@
 	"GET_CATEGORY_SUGGESTIONS": "Get category suggestions",
 	"WAITING_CATEGORY_SUGGESTIONS": "Waiting for category suggestions...",
 	"NO_CATEGORY_SUGGESTIONS_FOUND": "No category suggestions found!",
-	"ADDED_CATEGORY_SUGGESTIONS_IF_MISSING": "Added all missing cateogries!"
-
+	"ADDED_CATEGORY_SUGGESTIONS_IF_MISSING": "Added all missing cateogries!",
+	"IDENTITY_BALANCE": "Identity balance"
 }
