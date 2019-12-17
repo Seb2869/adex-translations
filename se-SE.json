@@ -834,7 +834,7 @@
 	"NO_CATEGORY_SUGGESTIONS_FOUND": "No category suggestions found!",
 	"ADDED_CATEGORY_SUGGESTIONS_IF_MISSING": "Added all missing cateogries!",
 	"IDENTITY_BALANCE": "Identity balance",
-	"LOGIN_QUICK_ACCOUNT": "Loginquick account",
+	"LOGIN_QUICK_ACCOUNT": "Login quick account",
 	"ERR_VALIDATING_QUICK_RECOVERY": "Error while validating recovery: ${0}",
 	"ERR_EMAIL_BACKUP_NOT_FOUND": "Backup not found!",
 	"ERR_EXTERNAL_WALLET_LOGIN": "Identity address not selected",
