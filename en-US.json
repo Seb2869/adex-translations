@@ -834,5 +834,13 @@
 	"NO_CATEGORY_SUGGESTIONS_FOUND": "No category suggestions found!",
 	"ADDED_CATEGORY_SUGGESTIONS_IF_MISSING": "Added all missing cateogries!",
 	"IDENTITY_BALANCE": "Identity balance",
-	"LOGIN_QUICK_ACCOUNT": "LOGIN_QUICK_ACCOUNT"
+	"LOGIN_QUICK_ACCOUNT": "LOGIN_QUICK_ACCOUNT",
+	"ERR_VALIDATING_QUICK_RECOVERY": "Error while validating recovery: ${0}",
+	"ERR_EMAIL_BACKUP_NOT_FOUND": "Backup not found!",
+	"ERR_EXTERNAL_WALLET_LOGIN": "Identity address not selected",
+	"ERR_VALIDATING_STANDARD_LOGIN": "Error validating login: ${0}",
+	"INVALID_EMAIL_OR_PASSWORD": "Invalid email or password",
+	"ERR_LOGIN": "Login error: ${0}",
+	"QUICK_RECOVER_DATA": "Recovery data",
+	"RECOVER_QUICK_ACCOUNT": "Recover quick account"
 }
