@@ -833,5 +833,6 @@
 	"WAITING_CATEGORY_SUGGESTIONS": "Waiting for category suggestions...",
 	"NO_CATEGORY_SUGGESTIONS_FOUND": "No category suggestions found!",
 	"ADDED_CATEGORY_SUGGESTIONS_IF_MISSING": "Added all missing cateogries!",
-	"IDENTITY_BALANCE": "Identity balance"
+	"IDENTITY_BALANCE": "Identity balance",
+	"LOGIN_QUICK_ACCOUNT": "LOGIN_QUICK_ACCOUNT"
 }
