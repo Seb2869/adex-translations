@@ -845,5 +845,20 @@
 	"RECOVER_QUICK_ACCOUNT": "Recover quick account",
 	"HAVE_GRANT_CODE": "I have grant code",
 	"QUICK_INFO": "Quick wallet info",
-	"QUICK_DEPLOY": "Quick deploy"
+	"QUICK_DEPLOY": "Quick deploy",
+	"NO_CAMPAINGS_INFORMATION": "You haven't created any campaigns yet",
+	"NO_ADUNITS_INFORMATION": "You haven't created any ad units",
+	"NO_ADSLOTS_INFORMATION": "You haven't created any ad slots yet",
+	"FILTER_LIST": "Filter List",
+	"FILTER": "Filter",
+	"SELECT_DATE_RANGE": "Select Date Range",
+	"CLEAR_ALL_FILTERS": "Clear All Filters",
+	"ALL_SELECTED": "All Selected",
+	"NONE_SELECTED": "None Selected",
+	"FILTER_BY_STATUS": "Filter by Status",
+	"SELECT_ALL": "Select All",
+	"SELECT_INFORMATION": "Select from the options above to filter the results",
+	"MORE_SELECTED": " and ${0} more selected...",
+	"CHOOSE_DATE_RANGE": "Choose Date Range",
+	"TIME_PERIOD": "${0} to ${1}"
 }
