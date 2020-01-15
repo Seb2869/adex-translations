@@ -698,7 +698,7 @@
 	"IDENTITY_WITHDRAW_NOTIFICATION": "Withdraw from account execution sent!",
 	"WAITING_FOR_USER_ACTION": "Please wait while processing",
 	"ERR_GETTING_OWNER_IDENTITIES": "Error getting owner idenities: ${0}",
-	"IDENTITY_OPTION_DATA": "account: ${0}, privileges: ${1}, balance: ${2} ${3}",
+	"IDENTITY_OPTION_DATA": "account: ${0}, privileges: ${1}, email: ${2}",
 	"SELECT_IDENTITY": "Select account",
 	"SELECT_IDENTITY_INFO": "Select identiy to connect with",
 	"FULL_LOGIN_INFO": "Select account contract to create session",
@@ -850,5 +850,7 @@
 	"TIME_PERIOD": "${0} to ${1}",
 	"SUCCESS_UPDATING_NEW_APP_VERSION": "We have a new app version - ${0}. Should force refresh!",
 	"ERR_UPDATING_APP": "Error occured when trying to update to new app version!",
-	"REFRESH": "Refresh" 
+	"REFRESH": "Refresh",
+	"TITLE_HELPER_TXT": "Campaign title",
+	"ADD_MAX_AVAILABLE": "Add max available"
 }
