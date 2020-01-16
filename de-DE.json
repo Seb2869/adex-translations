@@ -852,5 +852,6 @@
 	"ERR_UPDATING_APP": "Error occured when trying to update to new app version!",
 	"REFRESH": "Refresh",
 	"TITLE_HELPER_TXT": "Campaign title",
-	"ADD_MAX_AVAILABLE": "Add max available"
+	"ADD_MAX_AVAILABLE": "Add max available",
+	"EMAIL_ALREADY_USED": "Email already used"
 }
