@@ -853,5 +853,17 @@
 	"REFRESH": "Refresh",
 	"TITLE_HELPER_TXT": "Campaign title",
 	"ADD_MAX_AVAILABLE": "Add max available",
-	"EMAIL_ALREADY_USED": "Email already used"
+	"EMAIL_ALREADY_USED": "Email already used",
+	"SEARCHING_ENS": "Searching for ENS...",
+	"ENS_NOT_SET": "(No ENS set)",
+	"WAITING_FOR_TRANSACTION": "Waiting for transaction...",
+	"ACCOUNT_SET_ENS_STEP": "Choose ENS domain",
+	"SET_ENS_MAIN_INFO": "Set an ENS to your Account ID with a few simple clicks.",
+	"ENS_TO_SET_ADDR": "Choose ENS domain",
+	"ENS_ADDR_TO_BE_SET": "Account ID",
+	"SETENS": "Seting ENS",
+	"ENS_INFO_AND_FEES": "You will pay ${0} ${1} from setting ${2} as your ENS on your account",
+	"ACCOUNT_SET_ENS_SAVE_BTN": "Sign ENS Transaction",
+	"ACCOUNT_SET_ENS_BTN": "Set Account ENS",
+	"ACCOUNT_SET_ENS_TITLE": "Set Account ENS"
 }
