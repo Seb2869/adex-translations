@@ -853,5 +853,9 @@
 	"REFRESH": "Refresh",
 	"TITLE_HELPER_TXT": "Campaign title",
 	"ADD_MAX_AVAILABLE": "Add max available",
-	"EMAIL_ALREADY_USED": "Email already used"
+	"EMAIL_ALREADY_USED": "Email already used",
+	"LABEL_CTR": "CTR",
+	"LABEL_TOTAL_CLICKS": "Total clicks & CTR",
+	"EXPLAIN_TOTAL_CLICKS": "This shows the total clicks & CTR for the selected timeframe period",
+	"LABEL_CLICKS": "Clicks"
 }
