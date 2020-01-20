@@ -866,5 +866,9 @@
 	"ACCOUNT_SET_ENS_SAVE_BTN": "Sign ENS Transaction",
 	"ACCOUNT_SET_ENS_BTN": "Set Account ENS",
 	"ACCOUNT_SET_ENS_TITLE": "Set Account ENS",
-	"ENS_SETUP_NOTIFICATION": "You have successfuly signed the ENS transaction for: ${0}"
+	"ENS_SETUP_NOTIFICATION": "You have successfuly signed the ENS transaction for: ${0}",
+	"LABEL_CTR": "CTR",
+	"LABEL_TOTAL_CLICKS": "Total clicks & CTR",
+	"EXPLAIN_TOTAL_CLICKS": "This shows the total clicks & CTR for the selected timeframe period",
+	"LABEL_CLICKS": "Clicks"
 }
