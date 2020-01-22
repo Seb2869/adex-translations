@@ -856,5 +856,10 @@
 	"QUICK_WAITING_MSG": "Processing data ...",
 	"QUICK_WAITING_MSG_INFO": "Please wait!",
 	"GRANT_WAITING_MSG": "Processing data ...",
-	"GRANT_WAITING_MSG_INFO": "Please wait!"
+	"GRANT_WAITING_MSG_INFO": "Please wait!",
+	"CAMPAIGN_STATS_PIE_CHART": "Campaign Statistics Pie Chart",
+	"CAMPAIGN_STATS_BREAKDOWN": "Campaign Breakdown By Website",
+	"PIE_CHART_OTHER": "Other",
+	"WEBSITE_EARNINGS": "Website Earnings",
+	"WEBSITE": "Website"
 }
