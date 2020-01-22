@@ -850,5 +850,11 @@
 	"ERR_NO_WALLET_SELECTED": "Wallet not selected!",
 	"PROP_WALLET": "Wallet",
 	"PROP_IDENTITYCONTRACTOWNER": "Owner address",
-	"PROP_TOSCHECK": "Terms and conditions"
+	"PROP_TOSCHECK": "Terms and conditions",
+	"CREATING_SESSION_LOCAL_WALLET": "Creating session ...",
+	"PROCESSING_LOCAL_WALLET": "Setting up account ...",
+	"QUICK_WAITING_MSG": "Processing data ...",
+	"QUICK_WAITING_MSG_INFO": "Please wait!",
+	"GRANT_WAITING_MSG": "Processing data ...",
+	"GRANT_WAITING_MSG_INFO": "Please wait!"
 }
