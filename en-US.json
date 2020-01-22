@@ -850,5 +850,10 @@
 	"ERR_NO_WALLET_SELECTED": "Wallet not selected!",
 	"PROP_WALLET": "Wallet",
 	"PROP_IDENTITYCONTRACTOWNER": "Owner address",
-	"PROP_TOSCHECK": "Terms and conditions"
+	"PROP_TOSCHECK": "Terms and conditions",
+	"CAMPAIGN_STATS_PIE_CHART": "Campaign Statistics Pie Chart",
+	"CAMPAIGN_STATS_BREAKDOWN": "Campaign Breakdown By Website",
+	"PIE_CHART_OTHER": "Other",
+	"WEBSITE_EARNINGS": "Website Earnings",
+	"WEBSITE": "Website"
 }
