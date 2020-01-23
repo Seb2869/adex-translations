@@ -867,5 +867,7 @@
 	"ACCESS_WARNING_QUICK_CHECK": "If you loose your email or password they can not be recovered. In this case you have to contact us!",
 	"ACCESS_WARNING_FULL_CHECK": "If you loose access to your ${0} wallet you are loosing acces to this AdEx account. To prevent that you can set access to this account to another external wallet later!",
 	"PROP_ACCESSWARNINGCHECK": "Access conditions",
-	"ERR_ACCESS_WARNING_CHECK": "You must accept access conditions"
+	"ERR_ACCESS_WARNING_CHECK": "You must accept access conditions",
+	"CONFIRM_IDENTITY_EMAIL": "Great success! Email: ${0} is confurmed with account ID: ${1}",
+	"CONFIRM_IDENTITY_EMAIL_GRANT": "Great success! Email: ${0} is confurmed with account ID: ${1} and grant of: ${2}"
 }
