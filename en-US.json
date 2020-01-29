@@ -893,5 +893,11 @@
 	"TABLE_SHOW_HIDE_COLS": "Show/Hide Table Columns",
 	"TABLE_SELECTED_ROWS": "row(s) selected",
 	"TABLE_DELETE": "Delete",
-	"TABLE_DELETE_SELECTED": "Delete Selected Rows"
+	"TABLE_DELETE_SELECTED": "Delete Selected Rows",
+	"TITLE_ERR_CAMPAIGN": "Invalid title! Need to be between 3 and 120 characters long!",
+	"ERR_VALIDATING_CAMPAIGN_FINANCE": "Error validating canpaign data: ${0}",
+	"PROP_MINPERIMPRESSION": "CPM price",
+	"HOUR": "Hour",
+	"HOURS": "Hours",
+	"ERR_MIN_CAMPAIGN_PERIOD": "Campaign end can not be less than ${0} ${1} from the start!"
 }
