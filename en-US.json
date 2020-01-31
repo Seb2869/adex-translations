@@ -904,7 +904,10 @@
 	"AUTH_TREZOR": "Trezor",
 	"AUTH_LEDGER": "Ledger",
 	"AUTH_DEMO": "Demo",
-	"AUTH_GRAMT": "Grant",
+	"AUTH_GRANT": "Grant",
 	"AUTH_QUICK": "QUICK",
-	"AUTH_SEED": "Seed"
+	"AUTH_SEED": "Seed",
+	"CAMPAIGN_AD_UNITS": "Campaign Ad Units",
+	"ITEM_NOT_FOUND_TITLE": "Item not found",
+	"ITEM_NOT_FOUND_SUBTITLE": "-"
 }
