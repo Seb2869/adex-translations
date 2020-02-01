@@ -913,5 +913,6 @@
 	"ITEM_NOT_FOUND_TITLE": "Oooops...",
 	"ITEM_NOT_FOUND_SUBTITLE": "${0} with ID: ${1} can not be found!",
 	"RELOAD_DATA": "Refresh data",
-	"GO_TO_DASHBOARD": "Go to Dashboard"
+	"GO_TO_DASHBOARD": "Go to Dashboard",
+	"ERR_NO_IDENTITY_CONTRACT_OWNER": "Wallet not selected!"
 }
