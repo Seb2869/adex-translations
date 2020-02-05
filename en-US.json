@@ -919,5 +919,17 @@
 	"RELOAD_DATA": "Refresh data",
 	"GO_TO_DASHBOARD": "Go to Dashboard",
 	"ERR_NO_IDENTITY_CONTRACT_OWNER": "Wallet not selected!",
-	"ERR_GETTING_CAMPAIGNS": "Error getting campaigns: ${0}"
+	"ERR_GETTING_CAMPAIGNS": "Error getting campaigns: ${0}",
+	"ERR_PRIV_LEVEL_NOT_SELECTED": "Privilege level not selected",
+	"ERR_UPDATING_ACCOUNT_IDENTITY": "Error on updating identity data: ${0}",
+	"PRIV_0_LABEL": "None",
+	"PRIV_0_INFO": "Removes all privileges from an account, including ability to log in and access the account.",
+	"PRIV_1_LABEL": "User",
+	"PRIV_1_INFO": "Users can deposit into account, create new ad slots/ad units and observe the account (read-only).",
+	"PRIV_2_LABEL": "Owner",
+	"PRIV_2_INFO": "Owners can create new ad slots/ad units; create new campaigns; assign account privileges; deposit funds into account and withdraw from balance.",
+	"PRIV_LEVEL_INFO": "Changin privilegs will take effect after the transaction is confirmed on the blockchain.",
+	"PRIV_LEVEL_INFO_LABEL": "Privilege levels",
+	"ERR_PRIV_LVL_CURRENT_0": "I understand that setting privilege level to ${0} will disable the access to this identity of my current ${1} wallet!",
+	"ERR_PRIV_LVL_CURRENT_1": "I understand that setting privilege level to ${0} will disable the ability of my current ${1} wallet to set privileges to this identity, open campaigns and withdraw funds!"
 }
