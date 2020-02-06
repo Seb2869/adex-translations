@@ -936,5 +936,6 @@
 	"ERR_SLOTS_DEMAND_ANALYTICS": "Error getting slots demand analytics: ${0}",
 	"SLOT_TYPE_DEMAND_INFO": "average CPM: ${0} ${1}, total volume: ${2} ${3}",
 	"POPULAR_SLOTS_TYPES": "Popular slot types",
-	"NO_DEMAND_SLOTS_TYPES": "Currently no demand types"
+	"NO_DEMAND_SLOTS_TYPES": "Currently no demand types",
+	"SLOT_TYPE_HELPER": "Select slot type"
 }
