@@ -932,5 +932,9 @@
 	"PRIV_LEVEL_INFO": "Changin privilegs will take effect after the transaction is confirmed on the blockchain.",
 	"PRIV_LEVEL_INFO_LABEL": "Privilege levels",
 	"ERR_PRIV_LVL_CURRENT_0": "I understand that setting privilege level to ${0} will disable the access to this identity of my current ${1} wallet!",
-	"ERR_PRIV_LVL_CURRENT_1": "I understand that setting privilege level to ${0} will disable the ability of my current ${1} wallet to set privileges to this identity, open campaigns and withdraw funds!"
+	"ERR_PRIV_LVL_CURRENT_1": "I understand that setting privilege level to ${0} will disable the ability of my current ${1} wallet to set privileges to this identity, open campaigns and withdraw funds!",
+	"ERR_SLOTS_DEMAND_ANALYTICS": "Error getting slots demand analytics: ${0}",
+	"SLOT_TYPE_DEMAND_INFO": "average CPM: ${0} ${1}, total volume: ${2} ${3}",
+	"POPULAR_SLOTS_TYPES": "Popular slot types",
+	"NO_DEMAND_SLOTS_TYPES": "Currently no demand types"
 }
