@@ -937,5 +937,22 @@
 	"SLOT_TYPE_DEMAND_INFO": "average CPM: ${0} ${1}, total volume: ${2} ${3}",
 	"POPULAR_SLOTS_TYPES": "Popular slot types",
 	"NO_DEMAND_SLOTS_TYPES": "Currently no demand types",
-	"SLOT_TYPE_HELPER": "Select slot type"
+	"SLOT_TYPE_HELPER": "Select slot type",
+	"RECEIPT_FOR": "Receipt for ${0}",
+	"RECEIPT_ACCOUNT_ID": "Account ID: ${0}",
+	"RECEIPT_ID": "Receipt ID: ${0}",
+	"RECEIPT_COMPANY_DETAILS": "Company Details",
+	"RECEIPT_PAYMENT_DATE": "Receipt/payment date",
+	"RECEIPT_CAMPAIGN_ID": "Campaign ID",
+	"RECEIPT_PAID": "Paid",
+	"RECEIPT_CAMPAIGN_OVERVIEW": "Campaign Overview",
+	"RECEIPT_FROM_TO": "From ${0}, to ${1}",
+	"RECEIPT_CAMPAIGN_BREAKDOWN": "Campaign Breakdown",
+	"RECEIPT_PRINT": "Print Receipt",
+	"RECEIPTS_PRINT_ALL": "Print All Receipts",
+	"RECEIPT_PREVIEW_ONLY_DESKTOP": "Preview available only on desktop",
+	"COMPANY_NAME": "Company Name",
+	"FIRST_LAST_NAME": "First And Last Name",
+	"ADDRESS": "Address",
+	"COUNTRY": "Country"
 }
