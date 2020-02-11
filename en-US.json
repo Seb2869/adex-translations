@@ -951,6 +951,7 @@
 	"RECEIPT_PRINT": "Print Receipt",
 	"RECEIPTS_PRINT_ALL": "Print All Receipts",
 	"RECEIPT_PREVIEW_ONLY_DESKTOP": "Preview available only on desktop",
+	"RECEIPT_VIEW": "View Receipt",
 	"COMPANY_NAME": "Company Name",
 	"FIRST_LAST_NAME": "First And Last Name",
 	"ADDRESS": "Address",
