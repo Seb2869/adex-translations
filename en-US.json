@@ -678,7 +678,8 @@
 	"IDENTITY_WITHDRAW_NOTIFICATION": "Withdraw from account execution sent!",
 	"WAITING_FOR_USER_ACTION": "Please wait while processing",
 	"ERR_GETTING_OWNER_IDENTITIES": "Error getting owner identities: ${0}",
-	"IDENTITY_OPTION_DATA": "account: ${0}, privileges: ${1}",
+	"IDENTITY_OPTION_DATA": "${0} for: ${1}",
+	"IDENTITY_OPTION_DATA_ENS": "${0} for: ${1} (${2})",
 	"SELECT_IDENTITY": "Select account",
 	"SELECT_IDENTITY_INFO": "Select identity to connect with",
 	"FULL_LOGIN_INFO": "Select account contract to create session",
@@ -832,7 +833,7 @@
 	"ADD_MAX_AVAILABLE": "Add max available",
 	"EMAIL_ALREADY_USED": "Email already used",
 	"SEARCHING_ENS": "Searching for ENS...",
-	"ENS_NOT_SET": "(No ENS set)",
+	"ENS_NOT_SET": "No ENS set",
 	"WAITING_FOR_TRANSACTION": "Waiting for transaction...",
 	"ACCOUNT_SET_ENS_STEP": "Choose ENS domain",
 	"SET_ENS_MAIN_INFO": "Set an ENS to your Account ID with a few simple clicks.",
@@ -957,5 +958,9 @@
 	"ADDRESS": "Address",
 	"COUNTRY": "Country",
 	"CONFIRM_DIALOG_PRINT_ALL_RECEIPTS_TITLE": "Print All Campaigns",
-	"CONFIRM_DIALOG_PRINT_ALL_RECEIPTS_TEXT": "You are going to see an overview and be able to print only the Completed or Closed campaings of what you have selected"
+	"CONFIRM_DIALOG_PRINT_ALL_RECEIPTS_TEXT": "You are going to see an overview and be able to print only the Completed or Closed campaings of what you have selected",
+	"ERR_ENS_NOT_FREE": "ENS name already taken!",
+	"ERR_CAMPAIGN_ANALYTICS": "Error getting campaign analytics: ${0}",
+	"PRIVILEGES_LEVEL_WARNING_MSG": "You have \"User\" level privileges. Some functionalities may not be available.",
+	"ADEX_ACCOUNT": "AdEx account"
 }
