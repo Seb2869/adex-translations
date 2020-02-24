@@ -962,5 +962,7 @@
 	"ERR_ENS_NOT_FREE": "username already taken!",
 	"ERR_CAMPAIGN_ANALYTICS": "Error getting campaign analytics: ${0}",
 	"PRIVILEGES_LEVEL_WARNING_MSG": "You have \"${0}\" level privileges. Some functionalities may not be available.",
-	"ADEX_ACCOUNT": "AdEx account"
+	"ADEX_ACCOUNT": "AdEx account",
+	"ERR_INSUFFICIENT_BALANCE_WITHDRAW": "Insuficient account balance: Balance: ${0}, Fees: ${1}, Withdraw amount: ${2}",
+	"ERR_ZERO_WITHDRAW_AMOUNT": "Withdraw amount can not be 0"
 }
