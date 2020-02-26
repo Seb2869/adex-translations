@@ -972,6 +972,7 @@
 	"TUTORIAL_CREATE_AD_UNIT_STEP_4": "Choose the size of the creative you’ll upload. You can add your own UTM tracking or select to add Google UTM tracking.", 
 	"TUTORIAL_CREATE_AD_UNIT_STEP_5": "Add your ad creative. Keep in mind that it must be the same size as the ad unit for our system to accept it. Press “Continue”.",
 	"TUTORIAL_CREATE_AD_UNIT_STEP_6": "On the next step, define the targeting for your ad. Filling in these fields is optional, however the more targeting settings you specify, the higher the expected success rate of your ad.",
-	"TUTORIAL_CREATE_AD_UNIT_STEP_7": "Set a weight score for each target using the handy slider. This score indicates how important that particular targeting criteria is for your campaign, and helps you achieve a more precise targeting. \nReview if everything looks good, then hit “Save”.",
+	"TUTORIAL_CREATE_AD_UNIT_STEP_7": "Set a weight score for each target using the handy slider. This score indicates how important that particular targeting criteria is for your campaign, and helps you achieve a more precise targeting.",
+	"TUTORIAL_CREATE_AD_UNIT_STEP_8": "Review if everything looks good, then hit “Save”.",
 	"TUTORIAL_CREATE_AD_UNIT_END": "The created ad unit will then appear in the “Ad Units” section of your Advertiser account."
 }
