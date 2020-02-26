@@ -982,5 +982,5 @@
 	"TUTORIAL_FUND_ACC_STEP_3": "Next to the address you’ll see the Copy icon. Just click it and you’ll copy the address.",
 	"TUTORIAL_FUND_ACC_STEP_4": "Now that you have it, just send funds to it using your preferred wallet.",
 	"TUTORIAL_FUND_ACC_MORE_INFO": "Alternatively you can top up your account with GBP. More information can be found <0>here.</0>",
-	"TUTORIAL_FUND_ACC_ENDING": "When you have enough funds in your Identity address, you can start running campaigns on AdEx Network."
+	"TUTORIAL_FUND_ACC_END": "When you have enough funds in your Identity address, you can start running campaigns on AdEx Network."
 }
