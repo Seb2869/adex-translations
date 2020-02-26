@@ -974,5 +974,13 @@
 	"TUTORIAL_CREATE_AD_UNIT_STEP_6": "On the next step, define the targeting for your ad. Filling in these fields is optional, however the more targeting settings you specify, the higher the expected success rate of your ad.",
 	"TUTORIAL_CREATE_AD_UNIT_STEP_7": "Set a weight score for each target using the handy slider. This score indicates how important that particular targeting criteria is for your campaign, and helps you achieve a more precise targeting.",
 	"TUTORIAL_CREATE_AD_UNIT_STEP_8": "Review if everything looks good, then hit “Save”.",
-	"TUTORIAL_CREATE_AD_UNIT_END": "The created ad unit will then appear in the “Ad Units” section of your Advertiser account."
+	"TUTORIAL_CREATE_AD_UNIT_END": "The created ad unit will then appear in the “Ad Units” section of your Advertiser account.",
+	"TUTORIAL_FUND_ACC_TITLE": "How to fund your account",
+	"TUTORIAL_FUND_ACC_START": "Follow these steps to fund your account:",
+	"TUTORIAL_FUND_ACC_STEP_1": "On your Dashboard, go to Account in the lower left corner of the screen.",
+	"TUTORIAL_FUND_ACC_STEP_2": "On your Account screen you will see your Identity address, the address that you are using to login and the balance on your Identity address.",
+	"TUTORIAL_FUND_ACC_STEP_3": "Next to the address you’ll see the Copy icon. Just click it and you’ll copy the address.",
+	"TUTORIAL_FUND_ACC_STEP_4": "Now that you have it, just send funds to it using your preferred wallet.",
+	"TUTORIAL_FUND_ACC_MORE_INFO": "Alternatively you can top up your account with GBP. More information can be found <0>here.</0>",
+	"TUTORIAL_FUND_ACC_ENDING": "When you have enough funds in your Identity address, you can start running campaigns on AdEx Network."
 }
