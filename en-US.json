@@ -1007,7 +1007,7 @@
 	"TUTORIAL_PLACE_AD_SLOT_INFO_LINK_1": "<0>How to integrate <iframe> in HTML</0>",
 	"TUTORIAL_PLACE_AD_SLOT_INFO_LINK_2": "<0>How to integrate <iframe> in WordPress</0>",
 	"TUTORIAL_CONFIRM_EMAIL_LABEL": "Confirm your email address",
-	"TUTORIAL_CONFIRM_EMAIL_CONTENT": "Welcome to  the platform. Let's first confirm your email! Go to <0>{0}</0> and confirm your email!",
+	"TUTORIAL_CONFIRM_EMAIL_CONTENT": "Welcome to  the platform. Let's first confirm your email! Go to <0>${0}</0> and confirm your email!",
 	"TUTORIAL_ADD_UNIT_LABEL": "Create an ad unit",
 	"TUTORIAL_ADD_UNIT_CONTENT": "Your account is ready. Let's create your first ad!",
 	"TUTORIAL_FUND_ACCOUNT_LABEL": "Fund your account",
@@ -1025,7 +1025,7 @@
 	"BACK": "BACK",
 	"GETTING_STARTED_FINISHED": "All steps completed - you're finished",
 	"DISMISS": "Dismiss",
-	"GETTING_STARTED_STEPS" : "STEP {0}: {1}",
+	"GETTING_STARTED_STEPS" : "STEP ${0}: ${1}",
 	"COMPLETED": "(COMPLETED)",
 	"GETTING_STARTED_NOT_SURE_SEE_TUTORIAL": "Not sure how? See <0>our tutorial.</0>"
 }
