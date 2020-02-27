@@ -1027,5 +1027,12 @@
 	"DISMISS": "Dismiss",
 	"GETTING_STARTED_STEPS" : "STEP ${0}: ${1}",
 	"COMPLETED": "(COMPLETED)",
-	"GETTING_STARTED_NOT_SURE_SEE_TUTORIAL": "Not sure how? See <0>our tutorial.</0>"
+	"GETTING_STARTED_NOT_SURE_SEE_TUTORIAL": "Not sure how? See <0>our tutorial.</0>",
+	"TUTORIAL_CONFIRM_EMAIL_COMPLETE": "You have confirmed your email successfully!",
+	"TUTORIAL_CREATE_UNIT_COMPLETE": "You have created an ad unit successfully!",
+	"TUTORIAL_FUND_ACC_COMPLETE": "You have funded your account successfully!",
+	"TUTORIAL_LAUNCH_CAMPAIGN_COMPLETE": "You have launched your first campaign successfully!",
+	"TUTORIAL_CREATE_AD_SLOT_COMPLETE": "You have created an ad slot successfully!",
+	"TUTORIAL_PLACE_AD_SLOT_COMPLETE": "You have placed your ad slot successfully!",
+	"TUTORIAL_5000_IMPRESSIONS_COMPLETE": "You have reached 5,000 impressions! Congrats!"
 }
