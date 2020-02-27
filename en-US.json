@@ -1001,7 +1001,7 @@
 	"TUTORIAL_CREATE_AD_SLOT_STEP_7": "Preview your ad slot settings. Looking good? Hit <0>“Save”</0>. Forgot to add something? Click on <1>“Back”</1>.",
 	"TUTORIAL_CREATE_AD_SLOT_END": "Your new ad property item will now appear in the <0>“Ad Slots”</0> section of your account.",
 	"TUTORIAL_PLACE_AD_SLOT_TITLE": "How to place an ad slot on your site",
-	"TUTORIAL_PLACE_AD_SLOT_STEP_1": "On the Publisher Dashboard, click on <0>Ad Slots</0>. Click on the <1>“View”</1> button for the ad slot you want to implement on your website and scroll down to <2>“Integration”</2>.",
+	"TUTORIAL_PLACE_AD_SLOT_STEP_1": "On the Publisher Dashboard, click on <0>Ad Slots</0>. Click on the <1>“View”</1> button for the ad slot you want to implement on your website and scroll down to <0>“Integration”</0>.",
 	"TUTORIAL_PLACE_AD_SLOT_STEP_2": "Copy the integration code, then paste it on your website.",
 	"TUTORIAL_PLACE_AD_SLOT_MORE_INFO": "Take a look at those tutorials just in case:",
 	"TUTORIAL_PLACE_AD_SLOT_INFO_LINK_1": "<0>How to integrate <iframe> in HTML</0>",
