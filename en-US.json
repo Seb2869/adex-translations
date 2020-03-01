@@ -713,7 +713,7 @@
 	"CREATE_NEW_IDENTITY": "Create new account",
 	"SELECT_EXISTING_IDENTITY": "Select identity",
 	"CONNECT_STANDARD_IDENTITY": "Connect account",
-	"CREATE_NEW_IDENTITY_LINK": "Don't have an identity? Create a one.",
+	"CREATE_NEW_IDENTITY_LINK": "Don't have an identity? Create one.",
 	"CAMPAIGN_MIN_TARGETING": "Only show ad if targeting matches",
 	"SIGN_IN_TO": "Sign in to ${0}",
 	"QUICK_LOGIN_INFO": "Log in with ${0}",
