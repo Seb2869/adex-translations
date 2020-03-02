@@ -969,7 +969,7 @@
 	"TUTORIAL_CREATE_AD_UNIT_STEP_1": "Go to your Advertiser dashboard and click the <0>“New Ad unit”</0> button.",
 	"TUTORIAL_CREATE_AD_UNIT_STEP_2": "Enter a name for your ad unit, add a description (optional).",
 	"TUTORIAL_CREATE_AD_UNIT_STEP_3": "Next, point a <0>URL</0> where users will land after clicking on your ad.",
-	"TUTORIAL_CREATE_AD_UNIT_STEP_4": "Choose the size of the creative you’ll upload. You can add your own UTM tracking or select to add Google UTM tracking.", 
+	"TUTORIAL_CREATE_AD_UNIT_STEP_4": "Choose the size of the creative you’ll upload. You can add your own UTM tracking or select to add Google UTM tracking.",
 	"TUTORIAL_CREATE_AD_UNIT_STEP_5": "Add your ad creative. Keep in mind that it must be the same size as the ad unit for our system to accept it. Press <0>“Continue”</0>.",
 	"TUTORIAL_CREATE_AD_UNIT_STEP_6": "On the next step, define the targeting for your ad. Filling in these fields is optional, however the more targeting settings you specify, the higher the expected success rate of your ad.",
 	"TUTORIAL_CREATE_AD_UNIT_STEP_7": "Set a weight score for each target using the handy slider. This score indicates how important that particular targeting criteria is for your campaign, and helps you achieve a more precise targeting.",
@@ -1026,7 +1026,7 @@
 	"BACK": "BACK",
 	"GETTING_STARTED_FINISHED": "All steps completed - you're finished",
 	"DISMISS": "Dismiss",
-	"GETTING_STARTED_STEPS" : "STEP ${0}: ${1}",
+	"GETTING_STARTED_STEPS": "STEP ${0}: ${1}",
 	"COMPLETED": "(COMPLETED)",
 	"GETTING_STARTED_NOT_SURE_SEE_TUTORIAL": "Not sure how? See <0>our tutorial.</0>",
 	"TUTORIAL_CONFIRM_EMAIL_COMPLETE": "You have confirmed your email successfully!",
@@ -1035,5 +1035,7 @@
 	"TUTORIAL_LAUNCH_CAMPAIGN_COMPLETE": "You have launched your first campaign successfully!",
 	"TUTORIAL_CREATE_AD_SLOT_COMPLETE": "You have created an ad slot successfully!",
 	"TUTORIAL_PLACE_AD_SLOT_COMPLETE": "You have placed your ad slot successfully!",
-	"TUTORIAL_5000_IMPRESSIONS_COMPLETE": "You have reached 5,000 impressions! Congrats!"
+	"TUTORIAL_5000_IMPRESSIONS_COMPLETE": "You have reached 5,000 impressions! Congrats!",
+	"PUBLISHER_REVENUE_NOTICE": "Important: before you start receiving revenue, you need to be verified by contacting our ${0}",
+	"SUPPORT": "support"
 }
