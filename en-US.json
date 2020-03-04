@@ -1038,5 +1038,6 @@
 	"TUTORIAL_PLACE_AD_SLOT_COMPLETE": "You have placed your ad slot successfully!",
 	"TUTORIAL_5000_IMPRESSIONS_COMPLETE": "You have reached 5,000 impressions! Congrats!",
 	"PUBLISHER_REVENUE_NOTICE": "Important: before you start receiving revenue, you need to be verified by contacting our ${0} ${1}",
-	"SUPPORT": "support"
+	"SUPPORT": "support",
+	"NOTIFICATION_NEW_TOS": "We have updated our ${0}."
 }
