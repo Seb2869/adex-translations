@@ -1037,6 +1037,18 @@
 	"TUTORIAL_CREATE_AD_SLOT_COMPLETE": "You have created an ad slot successfully!",
 	"TUTORIAL_PLACE_AD_SLOT_COMPLETE": "You have placed your ad slot successfully!",
 	"TUTORIAL_5000_IMPRESSIONS_COMPLETE": "You have reached 5,000 impressions! Congrats!",
-	"PUBLISHER_REVENUE_NOTICE": "Important: before you start receiving revenue, you need to be verified by contacting our ${0} ${1}",
-	"SUPPORT": "support"
+	"PUBLISHER_REVENUE_NOTICE": "Important: before you start receiving revenue, you need to be verified by contacting our ${0}",
+	"SUPPORT": "support",
+	"NOTIFICATION_NEW_TOS": "We have updated our ${0}.",
+	"ERR_ENS_REQUIRED": "Username required",
+	"ERR_ENS_CHECK": "Invalid username check",
+	"INVALID_ARGUMENT": "Invalid argiument",
+	"ERR_RESOLVING_ENS_ADDRESS": "Error when resolving username: ${0}",
+	"ERR_SETTING_ENS": "Error when setting up username: ${0}",
+	"PROP_WEBSITE": "Website",
+	"SLOT_WEBSITE": "Website",
+	"SLOT_WEBSITE_ERR": "Invalid website format (https://www.example.com)",
+	"SLOT_WEBSITE_HELPER": "<strong>Pleaes note:</strong> this ad slot will not work on any other websites",
+	"SLOT_WEBSITE_WARNING": "<strong>Please note:</strong> once you integrate the ad slot code, you will not see any ads until the automatic verification has been completed (may take up to 48 hours).",
+	"SLOT_WEBSITE_CODE_WARNING": "<strong>**Important:**</strong> You will not be able to use this ad slot code on other websites."
 }
