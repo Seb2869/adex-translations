@@ -1050,5 +1050,6 @@
 	"SLOT_WEBSITE_ERR": "Invalid website format (https://www.example.com)",
 	"SLOT_WEBSITE_HELPER": "<strong>Pleaes note:</strong> this ad slot will not work on any other websites",
 	"SLOT_WEBSITE_WARNING": "<strong>Please note:</strong> once you integrate the ad slot code, you will not see any ads until the automatic verification has been completed (may take up to 48 hours).",
-	"SLOT_WEBSITE_CODE_WARNING": "<strong>**Important:**</strong> You will not be able to use this ad slot code on other websites."
+	"SLOT_WEBSITE_CODE_WARNING": "<strong>**Important:**</strong> You will not be able to use this ad slot code on other websites.",
+	"ACCOUNT_EMAIL_ERR": "Invalid email."
 }
