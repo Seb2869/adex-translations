@@ -756,7 +756,7 @@
 	"TOP_UP_IDENTITY_EUR": "Top up with EUR",
 	"TOP_UP_IDENTITY_GBP": "Top up with GBP",
 	"CAMPAIGN_UNITS": "Campaign units",
-	"SUCCESS_CLOSING_CAMPAIGN": "Close campaign sent: ${0}",
+	"SUCCESS_CLOSING_CAMPAIGN": "Your campaign has been closed. The remaining funds will be returned to you in a few minutes.",
 	"LEADER_STATUS": "Check lead validator health",
 	"FOLLOWER_STATUS": "Check follower validator health",
 	"LEADER_LAST_APPROVED": "Check last approved messages on lead validator ",
