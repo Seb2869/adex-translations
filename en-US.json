@@ -1054,5 +1054,10 @@
 	"SLOT_WEBSITE_WARNING": "<strong>Please note:</strong> once you integrate the ad slot code, you will not see any ads until the automatic verification has been completed (may take up to 48 hours).",
 	"SLOT_WEBSITE_CODE_WARNING": "<strong>**Important:**</strong> You will not be able to use this ad slot code on other websites.",
 	"ACCOUNT_EMAIL_ERR": "Invalid email.",
-	"PROP_SERVED": "Served"
+	"PROP_SERVED": "Served",
+	"LABEL_PERC": "Percentage",
+	"PROP_COUNTRY": "Country",
+	"TABLE_BEST_EARNERS_TITLE": "Best Earning Ads",
+	"TABLE_COUNTRY_STATS_THIS_MONTH": "This month country stats",
+	"MAP_STATISTICS": "Statistics By Country"
 }
