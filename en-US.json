@@ -867,7 +867,7 @@
 	"WEBSITE": "Website",
 	"SET_IDENTITY_OWNER_ADDRESS": "Connect wallet",
 	"FULL_INFO": "Account info",
-	"ACCESS_WARNING_QUICK_CHECK": "I understand that if I lose my email or password, my account can not be recovered!",
+	"ACCESS_WARNING_QUICK_CHECK": "I understand that if I lose my email or password, !",
 	"ACCESS_WARNING_FULL_CHECK": "I understand that losing access to this ${0} wallet means losing access to this AdEx account.",
 	"PROP_ACCESSWARNINGCHECK": "Access conditions",
 	"ERR_ACCESS_WARNING_CHECK": "You must accept access conditions",
@@ -1055,9 +1055,8 @@
 	"SLOT_WEBSITE_CODE_WARNING": "<strong>**Important:**</strong> You will not be able to use this ad slot code on other websites.",
 	"ACCOUNT_EMAIL_ERR": "Invalid email.",
 	"PROP_SERVED": "Served",
-	"LABEL_PERC": "Percentage",
-	"PROP_COUNTRY": "Country",
-	"TABLE_BEST_EARNERS_TITLE": "Best Earning Ads",
-	"TABLE_COUNTRY_STATS_THIS_MONTH": "This month country stats",
-	"MAP_STATISTICS": "Statistics By Country"
+	"SLOT_ISSUE_BLACKLISTED": "This hostname is <strong>BLACKLISTED</strong>",
+	"SLOT_ISSUE_INTEGRATION_NOT_VERIFIED": "This slot is not integrated yet. You can verify integration when the slot created. See how ${0}",
+	"SLOT_ISSUE_OWNERSHIP_NOT_VERIFIED": "This hostname ownership is not verified. See how to set DNS TXT record for your publisher domain ${0}",
+	"SOMEONE_ELSE_VERIFIED": "This hostname is verifyed from somenone else"
 }
