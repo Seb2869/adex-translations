@@ -1058,5 +1058,6 @@
 	"SLOT_ISSUE_BLACKLISTED": "This hostname is <strong>BLACKLISTED</strong>",
 	"SLOT_ISSUE_INTEGRATION_NOT_VERIFIED": "This slot is not integrated yet. You can verify integration when the slot created. See how ${0}",
 	"SLOT_ISSUE_OWNERSHIP_NOT_VERIFIED": "This hostname ownership is not verified. See how to set DNS TXT record for your publisher domain ${0}",
-	"SOMEONE_ELSE_VERIFIED": "This hostname is verifyed from somenone else"
+	"SOMEONE_ELSE_VERIFIED": "This hostname is verifyed from somenone else",
+	"WARNING_NETWORK_CONGESTED": "Transactions may be delayed due to Ethereum network congestion!"
 }
