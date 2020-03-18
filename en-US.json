@@ -1059,5 +1059,10 @@
 	"SLOT_ISSUE_INTEGRATION_NOT_VERIFIED": "This slot is not integrated yet. You can verify integration when the slot created. See how ${0}",
 	"SLOT_ISSUE_OWNERSHIP_NOT_VERIFIED": "This hostname ownership is not verified. See how to set DNS TXT record for your publisher domain ${0}",
 	"SOMEONE_ELSE_VERIFIED": "This hostname is verifyed from somenone else",
-	"WARNING_NETWORK_CONGESTED": "Transactions may be delayed due to Ethereum network congestion!"
+	"WARNING_NETWORK_CONGESTED": "Transactions may be delayed due to Ethereum network congestion!",
+	"PROP_KNOWFROM": "How did you hear about us?",
+	"PROP_MOREINFO": "More Info",
+	"MORE_INFO_CHECK_RULES": "Please be more specific",
+	"ERR_WHERE_YOU_KNOW_US_DROPDOWN_CHECK": "Please select where you heard about us",
+	"ERR_WHERE_YOU_KNOW_US_MOREINFO_CHECK": "Please provide additional info"
 }
