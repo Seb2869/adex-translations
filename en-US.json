@@ -1063,6 +1063,14 @@
 	"PROP_KNOWFROM": "How did you hear about us?",
 	"PROP_MOREINFO": "More Info",
 	"MORE_INFO_CHECK_RULES": "Please be more specific",
-	"ERR_WHERE_YOU_KNOW_US_DROPDOWN_CHECK": "Please select where you heard about us",
-	"ERR_WHERE_YOU_KNOW_US_MOREINFO_CHECK": "Please provide additional info"
+	"KNOW_FROM_CHECK_RULES": "Please select where you heard about us",
+	"ERR_WHERE_YOU_KNOW_US_DROPDOWN_CHECK": "This field is required",
+	"ERR_WHERE_YOU_KNOW_US_MOREINFO_CHECK": "More info is required",
+	"LABEL_GOOGLE": "Google/other search engines",
+	"LABEL_TWITTER": "Twitter",
+	"LABEL_FACEBOOK": "Facebook",
+	"LABEL_REDDIT": "Reddit",
+	"LABEL_EVENT": "Live event/conference/meetup",
+	"LABEL_FRIEND": "A friend told me about it",
+	"LABEL_OTHER": "Other"
 }
