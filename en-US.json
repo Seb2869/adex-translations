@@ -1076,5 +1076,6 @@
 	"RECEIPT_EARNED": "Earned",
 	"RECEIPTS": "Receipts",
 	"LABEL_TOTAL_PAYOUTS": "Total Payouts",
-	"RECEIPT_MONTH": "Month of receipt"
+	"RECEIPT_MONTH": "Month of receipt",
+	"PAYOUTS_FILTER": "Filter by payout"
 }
