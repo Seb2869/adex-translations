@@ -1079,5 +1079,5 @@
 	"RECEIPT_MONTH": "Month of receipt",
 	"PAYOUTS_FILTER": "Filter by payout",
 	"LABEL_DATE": "Date",
-	"FILTER_BY_CPM": "Filter by CPM"
+	"CPM_FILTER": "Filter by CPM"
 }
