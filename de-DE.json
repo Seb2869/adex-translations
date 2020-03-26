@@ -1072,6 +1072,7 @@
 	"SLOT_ISSUE_BLACKLISTED": "This hostname is <strong>BLACKLISTED</strong>",
 	"SLOT_ISSUE_INTEGRATION_NOT_VERIFIED": "This slot is not integrated yet. You can verify integration when the slot created. See how ${0}",
 	"SLOT_ISSUE_OWNERSHIP_NOT_VERIFIED": "This hostname ownership is not verified. See how to set DNS TXT record for your publisher domain ${0}",
+	"SLOT_ISSUE_SOMEONE_ELSE_VERIFIED": "This website is already verifyed by someone else.",
 	"SOMEONE_ELSE_VERIFIED": "This hostname is verifyed from somenone else",
 	"WARNING_NETWORK_CONGESTED": "Transactions may be delayed due to Ethereum network congestion!",
 	"PROP_KNOWFROM": "How did you hear about us?",
@@ -1093,5 +1094,7 @@
 	"RECEIPT_MONTH": "Month of receipt",
 	"PAYOUTS_FILTER": "Filter by payout",
 	"LABEL_DATE": "Date",
-	"CPM_FILTER": "Filter by CPM"
+	"CPM_FILTER": "Filter by CPM",
+	"EMAIL_NOT_CONFIRMED_WARNING_TITLE": "Email not confirmed",
+	"EMAIL_WARNING_SLOT_INTEGRATION": "Please, confirm your email to see the integration code. <strong>Check your inbox for the confirmation link.</strong>"
 }
