@@ -1096,5 +1096,6 @@
 	"LABEL_DATE": "Date",
 	"CPM_FILTER": "Filter by CPM",
 	"EMAIL_NOT_CONFIRMED_WARNING_TITLE": "Email not confirmed",
-	"EMAIL_WARNING_SLOT_INTEGRATION": "Please, confirm your email to see the integration code. <strong>Check your inbox for the confirmation link.</strong>"
+	"EMAIL_WARNING_SLOT_INTEGRATION": "Please, confirm your email to see the integration code. <strong>Check your inbox for the confirmation link.</strong>",
+	"SLOT_ISSUE_NO_WEBSITE": "This slot has not set website. Add update website filed to start receiving revenue."
 }
