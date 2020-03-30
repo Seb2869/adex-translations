@@ -1097,5 +1097,10 @@
 	"CPM_FILTER": "Filter by CPM",
 	"EMAIL_NOT_CONFIRMED_WARNING_TITLE": "Email not confirmed",
 	"EMAIL_WARNING_SLOT_INTEGRATION": "Please, confirm your email to see the integration code. <strong>Check your inbox for the confirmation link.</strong>",
-	"SLOT_ISSUE_NO_WEBSITE": "This slot has not set website. Add update website filed to start receiving revenue."
+	"SLOT_ISSUE_NO_WEBSITE": "This slot has not set website. Add update website filed to start receiving revenue.",
+	"HELPER_START_DATE": "Please, select start date",
+	"HELPER_END_DATE": "Please, select end date",
+	"START_DATE_ERROR": "Start date must be before end date",
+	"END_DATE_ERROR": "End date must be after start date",
+	"NO_REVENUE_THIS_MONTH": "There is no revenue this month."
 }
