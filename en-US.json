@@ -1105,5 +1105,7 @@
 	"NO_REVENUE_THIS_MONTH": "There is no revenue this month.",
 	"START_PERIOD": "Start period",
 	"END_PERIOD": "End period",
-	"GET_RECEIPTS": "Get receipts"
+	"GET_RECEIPTS": "Get receipts",
+	"ANALYTICS_PERIOD": "Select period",
+	"MAX_DATE_ERROR": "Selected period should not be after current date and time"
 }
