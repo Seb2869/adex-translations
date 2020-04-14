@@ -1121,5 +1121,7 @@
 	"SLOT_MAIN": "Slot",
 	"DO_IT_NOW": "Do it",
 	"SIGN_TX": "Sign TX",
-	"SAVE_UNIT": "Save unit"
+	"SAVE_UNIT": "Save unit",
+	"WARNING_SAFARI_7_DAYS_LOCAL_STORAGE": "As you are using Safari, your settings will be forgotten after 7 days!",
+	"ERR_WARNING_SAFARI_7_DAYS_LOCAL_STORAGE": "Error in using Safari warning"
 }
