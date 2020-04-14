@@ -197,7 +197,7 @@
 	"IMG_INFO_SIZE": "Upload image ${0} x ${1} ${2}",
 	"SLOT_DESCRIPTION_HELPER": "Some notes only for your information",
 	"SLOT_FALLBACK_AD_URL_DESCRIPTION": "Url that will be used for your ad slot if there are no active bids for it. AdEx will provide default if not set!",
-	"PROP_FALLBACKADURL": "Slot passback url",
+	"PROP_FALLBACKADURL": "Passback url",
 	"SLOT_AVATAR_IMG_LABEL": "Slot avatar image",
 	"SLOT_AVATAR_IMG_INFO": "If you do not upload avatar default one will be shown for this ad slot",
 	"SLOT_FALLBACK_IMG_INFO": "Image that will be used for your ad slot if there are no active bids for it. Upload image ${0} x ${1} ${2}",
@@ -1123,5 +1123,6 @@
 	"SIGN_TX": "Sign TX",
 	"SAVE_UNIT": "Save unit",
 	"WARNING_SAFARI_7_DAYS_LOCAL_STORAGE": "As you are using Safari, your settings will be forgotten after 7 days!",
-	"ERR_WARNING_SAFARI_7_DAYS_LOCAL_STORAGE": "Error in using Safari warning"
+	"ERR_WARNING_SAFARI_7_DAYS_LOCAL_STORAGE": "Error in using Safari warning",
+	"COUNTRY_DATA": "By country"
 }
