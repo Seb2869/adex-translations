@@ -1124,5 +1124,11 @@
 	"SAVE_UNIT": "Save unit",
 	"WARNING_SAFARI_7_DAYS_LOCAL_STORAGE": "As you are using Safari, your settings will be forgotten after 7 days!",
 	"ERR_WARNING_SAFARI_7_DAYS_LOCAL_STORAGE": "Error in using Safari warning",
-	"COUNTRY_DATA": "By country"
+	"COUNTRY_DATA": "By country",
+	"ERR_MIN_TARGETING_SCORE": "Campaign won't run if selected",
+	"ERR_MIN_TARGETING_SCORE_ALERT": "This campaign has ad units with no tarheting, your campaign won't run if \"Only show ad if targeting matches\" is selected!",
+	"ERR_TARGETING_NOT_SELECTED": "Add tageting to continue.",
+	"PROP_MINTARGETINGSCORE": "Only show ad if targeting matches",
+	"IMPRESSIONS_AND_REVINUE_INFO": "Current impressions count: ${0}. No revenue data on the chart? ${1}",
+	"LEARN_MORE": "Learn more"
 }
