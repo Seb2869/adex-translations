@@ -1058,7 +1058,6 @@
 	"LABEL_PERC": "Share",
 	"PROP_COUNTRY": "Country",
 	"LABEL_EARNINGS": "Earnings",
-	"TABLE_BEST_EARNERS_TITLE": "Best performing ads",
 	"TABLE_COUNTRY_STATS_THIS_MONTH": "This month country stats",
 	"MAP_STATISTICS": "Statistics By Country",
 	"COUNTRY_STATS": "Statistics by country",
@@ -1152,5 +1151,9 @@
 	"ONRAMP_INFO": "Deposit with credit card to you account directly using one of our onramp partners",
 	"BTC_INFO": "In the future you are going to be able to deposit with BTC as well",
 	"COMMING_SOON": "Comming sooner or later",
-	"TOP_UP": "Top Up Account"
+	"TOP_UP": "Top Up Account",
+	"WEBSITE_STATS": "By Website",
+	"TIMEFRAME_STATS": "By Timeframe",
+	"TABLE_BEST_EARNERS_SLOTS_TITLE": "Slots performace",
+	"TABLE_BEST_EARNERS_UNITS_TITLE": "Best performing ads"
 }
