@@ -1151,5 +1151,6 @@
 	"CREDIT_CARD_BANK_TRANSFER": "Credit card & bank transfer",
 	"ONRAMP_INFO": "Deposit with credit card to you account directly using one of our onramp partners",
 	"BTC_INFO": "In the future you are going to be able to deposit with BTC as well",
-	"COMMING_SOON": "Comming sooner or later"
+	"COMMING_SOON": "Comming sooner or later",
+	"TOP_UP": "Top Up Account"
 }
