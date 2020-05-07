@@ -1157,5 +1157,7 @@
 	"TABLE_BEST_EARNERS_UNITS_TITLE": "Best performing ads",
 	"TOPUP": "Top Up",
 	"UPDATE_PASSBACK": "Update passback data",
-	"UPDATE_SLOT_PASSBACK": "Slot passback data"
+	"UPDATE_SLOT_PASSBACK": "Slot passback data",
+	"COMPANY_DETAIL_HEADING": "Company details",
+	"PROCEED": "Proceed"
 }
