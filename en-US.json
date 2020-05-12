@@ -1178,5 +1178,5 @@
 	"SUCCESS_UPDATING_WS_VERIFICATION": "\"${0}\" validation is completed",
 	"ERR_UPDATING_WS_VERIFICATION": "Error on validating \"${0}\": ${1}",
 	"WALLETS_WITH_PRIVILEGES": "Wallets with privileges",
-	"WALLET_PRIV_LABEL": "Privileges: ${1}"
+	"WALLET_PRIV_LABEL": "Privileges: ${0}"
 }
