@@ -1176,5 +1176,7 @@
 	"WEBSITES": "Websites",
 	"UPDATING_WS_VERIFICATION_WITH_ISSUES": "Validation for \"${0}\" updated but there are still issues, please check Websites page for more info",
 	"SUCCESS_UPDATING_WS_VERIFICATION": "\"${0}\" validation is completed",
-	"ERR_UPDATING_WS_VERIFICATION": "Error on validating \"${0}\": ${1}"
+	"ERR_UPDATING_WS_VERIFICATION": "Error on validating \"${0}\": ${1}",
+	"WALLETS_WITH_PRIVILEGES": "Wallets with privileges",
+	"WALLET_PRIV_LABEL": "Privileges: ${1}"
 }
