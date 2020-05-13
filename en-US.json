@@ -1169,7 +1169,7 @@
 	"JUST_NOW": "Just now",
 	"TIME_AGO": "${0} ${1} ago",
 	"VERIFICATION_UPDATED_AGO": "Updated ${0}",
-	"TRY_VERIFY": "Retry verification",
+	"TRY_VERIFY": "Retry",
 	"REGISTERED_WEBSITES": "Registered websites",
 	"ISSUES_LEGEND": "Issues legend",
 	"VERIFICATION_INFO_TEXT": "Each registered website verification is updated every ${0} ${1}. You can run verification manualy once in ${2} ${3}",
