@@ -1180,5 +1180,7 @@
 	"WALLETS_WITH_PRIVILEGES": "Wallets with privileges",
 	"WALLET_PRIV_LABEL": "Privileges: ${0}",
 	"WEBSITE_VERIFICATION": "Website verification",
-	"WEBSITE_VERIFIED": "Website verified"
+	"WEBSITE_VERIFIED": "Website verified",
+	"CURRENT": "Current",
+	"CHANGE_PRIVILEGE": "Change privilege"
 }
