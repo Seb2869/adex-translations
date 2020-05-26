@@ -1186,5 +1186,6 @@
 	"ACCOUNT_NONE_PRIVILEGES": "You can no longer log in with this account! You need to use a wallet with privileges.",
 	"CONFIRM_DIALOG_REMOVE_SAVED_AUTH_TITLE": "Remove saved email",
 	"CONFIRM_DIALOG_REMOVE_SAVED_AUTH_TEXT": "Do you want to remove the saved email?",
-	"CURRENT_AUTH": "Current auth"
+	"CURRENT_AUTH": "Current auth",
+	"TOPUP_BTC": "TOP UP BTC"
 }
