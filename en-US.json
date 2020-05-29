@@ -1187,5 +1187,22 @@
 	"CONFIRM_DIALOG_REMOVE_SAVED_AUTH_TITLE": "Remove saved email",
 	"CONFIRM_DIALOG_REMOVE_SAVED_AUTH_TEXT": "Do you want to remove the saved email?",
 	"CURRENT_AUTH": "Current auth",
-	"TOPUP_BTC": "TOP UP BTC"
+	"TOPUP_BTC": "TOP UP BTC",
+	"ERR_AUDIENCE_INPUT": "Audience errors: ${0}",
+	"PROP_AUDIENCEINPUT": "Audience",
+	"BTC": "Bitcoin",
+	"ERR_LOCATION_AUDIENCE_NOT_SELECTED": "Location not selected",
+	"ERR_LOCATION_AUDIENCE_IN_NOT_SELECTED": "Location included not selected",
+	"ERR_LOCATION_AUDIENCE_NIN_NOT_SELECTED": "Location excluded not selected",
+	"ERR_PUBLISHERS_AUDIENCE_NOT_SELECTED": "Publishers not selected",
+	"ERR_PUBLISHERS_AUDIENCE_IN_NOT_SELECTED": "Publishers included not selected",
+	"ERR_PUBLISHERS_AUDIENCE_NIN_NOT_SELECTED": "Publishers excluded not selected",
+	"ERR_CATEGORIES_AUDIENCE_NOT_SELECTED": "Categories not selected",
+	"ERR_CATEGORIES_AUDIENCE_IN_NOT_SELECTED": "Included categories not selected",
+	"SHOW_ONLY_IN_SELECTED": "Show only on selected",
+	"DONT_SHOW_IN_SELECTED": "Do not show on selected",
+	"SHOW_EVERYWHERE": "Show everywhere",
+	"SHOW_SELECTED": "Show on selected",
+	"DONT_SHOW_SELECTED": "Do not show on selected",
+	"CAMPAIGN_AUDIENCE_STEP": "Audience"
 }
