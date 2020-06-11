@@ -1204,5 +1204,11 @@
 	"SHOW_EVERYWHERE": "Show everywhere",
 	"SHOW_SELECTED": "Show on selected",
 	"DONT_SHOW_SELECTED": "Do not show on selected",
-	"CAMPAIGN_AUDIENCE_STEP": "Audience"
+	"CAMPAIGN_AUDIENCE_STEP": "Audience",
+	"TIER_1": "Tier 1",
+	"TIER_2": "Tier 2",
+	"TIER_3": "Tier 3",
+	"TIER_4": "Tier 4",
+	"SAVED_AUDIENCES": "Saved audiences"
+	 
 }
