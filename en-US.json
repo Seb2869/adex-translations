@@ -16,6 +16,7 @@
 	"CAMPAIGN": "Campaign",
 	"CHANNEL": "Channel",
 	"ADUNIT": "Ad unit",
+	"AUDIENCE": "Audience",
 	"ADSLOT": "Ad slot",
 	"UNITS": "Ad Units",
 	"SLOTS": "Ad Slots",
@@ -1064,6 +1065,9 @@
 	"SLOT_ISSUE_INTEGRATION_NOT_VERIFIED": "This hostname integration is not verified. See how to verify your publisher domain ${0}",
 	"SLOT_ISSUE_OWNERSHIP_NOT_VERIFIED": "This hostname ownership is not verified. See how to set DNS TXT record for your publisher domain ${0}",
 	"SLOT_ISSUE_SOMEONE_ELSE_VERIFIED": "This website is already verified by someone else.",
+	"BLACKLISTED": "Blacklisted",
+	"NOT_VERIFIED": "Not verified",
+	"VERIFIED_BY_SOMEONE_ELSE": "Verified by other",
 	"SOMEONE_ELSE_VERIFIED": "This hostname is verified from somenone else",
 	"WARNING_NETWORK_CONGESTED": "Transactions may be delayed due to Ethereum network congestion!",
 	"PROP_KNOWFROM": "How did you hear about us?",
@@ -1223,9 +1227,9 @@
 	"LOCATION_IN": "Location - show in:",
 	"LOCATION_NIN": "Location - NOT show in:",
 	"PUBLISHERS_IN": "Publishers - show in:",
-	"PUBLISHERS_NIN": "Publishers - NOT show in:"	,
+	"PUBLISHERS_NIN": "Publishers - NOT show in:",
 	"CATEGORIES_IN": "Categories - show in:",
-	"CATEGORIES_NIN": "Categories - NOT show in:"	,
+	"CATEGORIES_NIN": "Categories - NOT show in:",
 	"INCLUDE_INCENTIVIZED_TRAFFIC": "Include incentivized traffic",
 	"DISABLE_FREQUENCY_CAPPING": "Disable fequency capping",
 	"LIMIT_AVERAGE_DAILY_SPENDING": "Limit average daily spending",
@@ -1236,5 +1240,7 @@
 	"AUDIENCE_VERSION_ERR": "Invalid version",
 	"AUDIENCE_INPUTS_ERR": "Invalid inputs",
 	"AUDIENCE_TITLE_ERR": "Invalid title",
-	"AUDIENCE_BASIC_STEP": "Title"
+	"AUDIENCE_BASIC_STEP": "Title",
+	"ALL_CATEGORIES": "All categories",
+	"AUDIENCE_SAVED": "Audience saved: ${0} "
 }
