@@ -1252,5 +1252,20 @@
 	"ALEXA_RANK": "Alexa rank",
 	"CATEGORIES": "Categories",
 	"INCLUDE_INCENTIVIZED_TRAFFIC_INFO": "${0}",
-	"CHECK_HERE": "Check out here"
+	"CHECK_HERE": "Check out here",
+	"ALL_PUBLISHERS": "All publishers",
+	"TOTAL_IMPRESSIONS_UP_TO": "Get up to ${0} impressions",
+	"CPM_MIN_LABEL": "Min CPM",
+	"CPM_MAX_LABEL": "Max CPM",
+	"CPM_MIN_HELPER_TXT": "Recommended min CPM ${0} ${1}",
+	"CPM_MAX_HELPER_TXT": "Recommended max CPM ${0} ${1}",
+	"BOUNDS_NOT_NOT_SET": "CPM not set",
+	"SLOT_AUTO_MIN_CPM": "Auto set min CPM based on website categories",
+	"SLOT_AUTO_MIN_CPM_INFO": "If checked this slot min CPM will be set to averege for content categories",
+	"SLOT_ALLOW_ADULT_CONTENT": "Allow adult content ads on this slot",
+	"SLOT_ALLOW_ADULT_CONTENT_INFO": "If checked adult content ads will be displayed if available",
+	"SLOT_RULES_VERSION_ERR": "Invalid rules version",
+	"SLOT_RULES_INPUTS_ERR": "Invalid rules inputs",
+	"SLOT_RULES": "Slot rules",
+	"WEBSITE_CATEGORIES": "Website categories"
 }
