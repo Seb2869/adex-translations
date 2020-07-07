@@ -1304,5 +1304,7 @@
 	"ERR_INCLUDE_WEBSITE": "Error: including ${0} website(s): ${2}",
 	"ERR_EXCLUDE_WEBSITE": "Error: excluding ${0} website(s): ${2}",
 	"WEBSITE_IS_EXCLUDED": "This website is currently excluded from displaying this campaign. You can inclued it again form here or by edit campaign audience.",
-	"LABEL_AVERAGE_CPM": "Average CPM"
+	"LABEL_AVERAGE_CPM": "Average CPM",
+	"CAMPAIGN_UTM_SRC_WITH_PUB": "Use UTM source with publisher address",
+	"CAMPAIGN_UTM_SRC_WITH_PUB_INFO": "You will see e.g.\"utm_source=AdEx+(publisheraddress.com)\" at your Google Analytics"
 }
