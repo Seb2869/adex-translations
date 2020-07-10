@@ -1317,5 +1317,9 @@
 	"MOST_POPULAR_UNITS_TYPES": "Most popular formats",
 	"LESS_POPULAR_UNITS_TYPES": "Less popular formats",
 	"REACH_PER_MILLION": "Reach per million",
-	"ERR_TARGETING_DATA_ANALYTICS": "Error getting targeting data analytics: ${0}"
+	"ERR_TARGETING_DATA_ANALYTICS": "Error getting targeting data analytics: ${0}",
+	"LABEL_ARCHIVE": "Archive ${0}",
+	"ARCHIVE_CONFIRM_LABEL": "Archive ${0}",
+	"ARCHIVE_CONFIRM_TITLE": "You are about to archive ${0}: \"${1}\"",
+	"ARCHIVE_CONFIRM_INFO": "Once ${0} is archived you will not see it the collection!"
 }
