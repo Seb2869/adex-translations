@@ -1234,9 +1234,9 @@
 	"CATEGRIES_ALLIN": "Categories",
 	"CATEGORIES_IN": "Categories - show in:",
 	"CATEGORIES_NIN": "Categories - NOT show in:",
-	"INCLUDE_INCENTIVIZED_TRAFFIC": "Include incentivized traffic ${0}",
-	"DISABLE_FREQUENCY_CAPPING": "Disable ferquency capping ${0}",
-	"LIMIT_AVERAGE_DAILY_SPENDING": "Limit average daily spending ${0}",
+	"INCLUDE_INCENTIVIZED_TRAFFIC": "Include incentivized traffic",
+	"DISABLE_FREQUENCY_CAPPING": "Disable ferquency capping",
+	"LIMIT_AVERAGE_DAILY_SPENDING": "Limit average daily spending",
 	"INCLUDE_INCENTIVIZED_TRAFFIC_LABEL": "Include incentivized traffic",
 	"DISABLE_FREQUENCY_CAPPING_LABEL": "Disable ferquency capping",
 	"LIMIT_AVERAGE_DAILY_SPENDING_LABEL": "Limit average daily spending",
@@ -1334,5 +1334,9 @@
 	"SLOT_AUTO_MIN_CPM_INFO_LABEL": "If checked,  min CPM will be AUTO set to average based on this slot website categories",
 	"PROP_SLOTADVANCED": "Advanced oprions",
 	"LOCATION_ALLIN": "Location",
-	"AUDIENCE_MAIN": "Audience"
+	"AUDIENCE_MAIN": "Audience",
+	"LOCATION_TIERS_INFO": "Learn more about country tiers ${0}",
+	"PROP_CAMPAIGN_ADVANCED": "Advanced",
+	"EDIT_CAMPAIGN_ADVANCED": "Edit advanced",
+	"EDIT_CAMPAIGN_ADVANCED_TITLE": "Edit campaign advanced options"
 }
