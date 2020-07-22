@@ -1318,5 +1318,8 @@
 	"LOCATION_TIERS_INFO": "Learn more about country tiers ${0}",
 	"PROP_CAMPAIGNADVANCED": "Advanced",
 	"EDIT_CAMPAIGN_ADVANCED": "Edit advanced",
-	"EDIT_CAMPAIGN_ADVANCED_TITLE": "Edit campaign advanced options"
+	"EDIT_CAMPAIGN_ADVANCED_TITLE": "Edit campaign advanced options",
+	"INVALID_SUGGESTED_MIN_CPM": "Invalid CPM value",
+	"INVALID_AUTO_CPM_VALUE": "Invalid auto average min CPM",
+	"INVALID_MANUAL_MIN_CPM_VALUE": "Imvalid manual CPM value"
 }
