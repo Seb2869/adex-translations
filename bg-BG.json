@@ -1320,5 +1320,6 @@
 	"EDIT_CAMPAIGN_ADVANCED_TITLE": "Edit campaign advanced options",
 	"INVALID_SUGGESTED_MIN_CPM": "Invalid CPM value",
 	"INVALID_AUTO_CPM_VALUE": "Invalid auto average min CPM",
-	"INVALID_MANUAL_MIN_CPM_VALUE": "Imvalid manual CPM value"
+	"INVALID_MANUAL_MIN_CPM_VALUE": "Imvalid manual CPM value",
+	"IMPRESSIONS_AND_REVENUE_INFO_NO_TAXES": "The revenue is displayed on the chart is subject to network fees for withdrawal. Your profit (the revenue minus the network fees) is what appears in your account balance."
 }
