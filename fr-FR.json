@@ -1321,5 +1321,17 @@
 	"INVALID_SUGGESTED_MIN_CPM": "Invalid CPM value",
 	"INVALID_AUTO_CPM_VALUE": "Invalid auto average min CPM",
 	"INVALID_MANUAL_MIN_CPM_VALUE": "Imvalid manual CPM value",
-	"IMPRESSIONS_AND_REVENUE_INFO_NO_TAXES": "The revenue is displayed on the chart is subject to network fees for withdrawal. Your profit (the revenue minus the network fees) is what appears in your account balance."
+	"IMPRESSIONS_AND_REVENUE_INFO_NO_TAXES": "The revenue is displayed on the chart is subject to network fees for withdrawal. Your profit (the revenue minus the network fees) is what appears in your account balance.",
+	"TRANSAK_FEES": "Fees: from 0.5%",
+	"TRANSAK_LIMITS": "Limits: up to 15,000 EUR/day",
+	"TRANSAK_CURRENCIES": "Curencies: GBP, EUR, USD and many more",
+	"BANK_TRANSFER_AND_CARD_PAYMENTS": "Credit/Debit card and Bank Transfer (methods availability depends on location)",
+	"CHANGELLY_TRANSFER": "Crypto currency transfer",
+	"CHANGELLY": "Changelly",
+	"CHANGELLY_FEES": "Fees: 0.25%",
+	"CHANGELLY_TIME": "Trnasfer time: 12 min on average",
+	"CHANGELLY_CURRENCIES": "Curencies: ${0}",
+	"CRYPTO_CURRENCY_DEPOSIT": "CRYPTO CURRENCY",
+	"CRYPTO_EXCHANGE": "Crypto currency exchange",
+	"CRYPTO_CURRENCY_DEPOSIT_INFO": "Exchange crypto currency to top up your AdEx account"
 }
