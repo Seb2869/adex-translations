@@ -1260,7 +1260,7 @@
 	"BTN_RESUME_CAMPAIGN": "Resume campaign",
 	"CLOSE_CAMPAIGN_CONFIRM_LABEL": "Close the campaign",
 	"CLOSE_CAMPAIGN_CONFIRM_TITLE": "You are about to close campaign: '${0}'",
-	"CLOSE_CAMPAIGN_CONFIRM_INFO": "Once campaign is closed you can NOT open it again. If you are using hardware wallet please sign the message.",
+	"CLOSE_CAMPAIGN_CONFIRM_INFO": "Validator fees of ${0} apply to this campaign. By closing the campaign, you would still need to pay ${0} over non-distributed funds. ${1} ${3} will be automatically deducted from the remaining campaign budget of ${2} ${3}. Once campaign is closed you can NOT open it again. If you are using hardware wallet please sign the message.",
 	"PAUSE_CAMPAIGN_CONFIRM_LABEL": "Pause the campaign",
 	"PAUSE_CAMPAIGN_CONFIRM_TITLE": "You are about to pause campaign: '${0}'",
 	"PAUSE_CAMPAIGN_CONFIRM_INFO": "Once campaign is paused you can resume it again at any moment. While campaign is paused it will NOT be displayed. If you are using hardware wallet please sign the message.",
@@ -1333,5 +1333,6 @@
 	"CHANGELLY_CURRENCIES": "Curencies: ${0}",
 	"CRYPTO_CURRENCY_DEPOSIT": "CRYPTO CURRENCY",
 	"CRYPTO_EXCHANGE": "Crypto currency exchange",
-	"CRYPTO_CURRENCY_DEPOSIT_INFO": "Exchange crypto currency to top up your AdEx account"
+	"CRYPTO_CURRENCY_DEPOSIT_INFO": "Exchange crypto currency to top up your AdEx account",
+	"NOT_SET": "Not set"
 }
