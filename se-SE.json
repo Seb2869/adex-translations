@@ -1336,7 +1336,15 @@
 	"CRYPTO_CURRENCY_DEPOSIT_INFO": "Exchange crypto currency to top up your AdEx account",
 	"NOT_SET": "Not set",
 	"TOS": "Terms and conditions",
-	"BD_TOTAL_FEE": "Total fee: ${0} ${1}, that includes:",
+	"BD_TOTAL_FEE": "Total fees: ${0} ${1}, that includes:",
 	"BD_TXNS_FEE": "${0} network fee: ${1} ${2}",
-	"BD_SWEEP_FEE": "Sweep from ${0} campaigns(s) network fee: ${1} ${2}"
+	"BD_SWEEP_FEE": "Sweep from ${0} campaigns(s) network fee: ${1} ${2}",
+	"BD_DEPLOY_FEE": "Identity deploy fee: ${0} ${1}",
+	"FEES_BREAKDOWN_ADVANCED": "Fees breakdown",
+	"SYNC_DATA_MSG": "Updating balancess ...",
+	"WITHDRAW": "Withdraw",
+	"PRIVILEGES_CHANGE": "Privileges change",
+	"ENS_CHANGE": "User name change",
+	"DEFAULT": "Default",
+	"NETWORK_WARNING": "Network warning"
 }
