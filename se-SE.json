@@ -1346,5 +1346,7 @@
 	"PRIVILEGES_CHANGE": "Privileges change",
 	"ENS_CHANGE": "User name change",
 	"DEFAULT": "Default",
-	"NETWORK_WARNING": "Network warning"
+	"NETWORK_WARNING": "Network warning",
+	"RELOAD_REQUIRED": "Page reload required",
+	"RELOAD_NOW": "Reload now"
 }
