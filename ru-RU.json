@@ -45,7 +45,7 @@
 	"SALE_POINT_ADV_3": "Minimized ad-fraud",
 	"SALE_POINT_PUB_1": "100% traffic monetization",
 	"SALE_POINT_PUB_2": "No middlemen",
-	"SALE_POINT_PUB_3": "No fees or commissions",
+	"SALE_POINT_PUB_3": "No hidden fees or commissions",
 	"GO_ADVERTISER": "Go to advertiser side",
 	"GO_PUBLISHER": "Go to publisher side",
 	"GO_ADUNIT": "Go to ad unit ${0}",
@@ -1348,5 +1348,11 @@
 	"DEFAULT": "Default",
 	"NETWORK_WARNING": "Network warning",
 	"RELOAD_REQUIRED": "Page reload required",
-	"RELOAD_NOW": "Reload now"
+	"RELOAD_NOW": "Reload now",
+	"USER_SIDE_INFO": "If you plan to use your account as both, indicate the primary use.",
+	"USER_SIDE_SELECT_LABEL": "I will use the platform as:",
+	"PROP_USER_SIDE": "User side",
+	"LABEL_PUBLISHER": "Publisher",
+	"LABEL_ADVERTISER": "Advertiser",
+	"TOS_CHECK_LABEL": "Ihave read and agree to the ${0}"
 }
