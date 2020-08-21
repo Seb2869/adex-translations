@@ -1354,5 +1354,14 @@
 	"PROP_USER_SIDE": "User side",
 	"LABEL_PUBLISHER": "Publisher",
 	"LABEL_ADVERTISER": "Advertiser",
-	"TOS_CHECK_LABEL": "Ihave read and agree to the ${0}"
+	"TOS_CHECK_LABEL": "Ihave read and agree to the ${0}",
+	"ERR_WEBSITE_EXISTS": "Website already exists",
+	"ERR_VALIDATING_WEBSITE_BASIC": "Error validting website: ${0}",
+	"NEW_WEBSITE": "New website",
+	"WEBSITE_BASIC_STEP": "Add new website",
+	"WEBSITE_INFO_AND_PREVIEW_STEP": "Website info",
+	"WEBSITE_LABEL": "Website",
+	"NEW_WEBSITE_HELPER_TEXT": "Website format \"https://www.example.com\" - only \"https\" protocol is supported",
+	"CREATE_NEW_WEBSITE": "Add new websites",
+	"NEW_WEBSITE_CREATE_FROM_SLOT_INFO": "You can also add a website by simply creating a new ad slot."
 }
