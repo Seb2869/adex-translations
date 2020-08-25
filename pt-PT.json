@@ -1363,5 +1363,10 @@
 	"WEBSITE_LABEL": "Website",
 	"NEW_WEBSITE_HELPER_TEXT": "Website format \"https://www.example.com\" - only \"https\" protocol is supported",
 	"CREATE_NEW_WEBSITE": "Add new websites",
-	"NEW_WEBSITE_CREATE_FROM_SLOT_INFO": "You can also add a website by simply creating a new ad slot."
+	"NEW_WEBSITE_CREATE_FROM_SLOT_INFO": "You can also add a website by simply creating a new ad slot.",
+	"DNS_RECORD_INFO": "To verify \"${0}\" DNS TXT for  our platform, you need to enter the following record:",
+	"WEBSITE_DNS_RECORD_LABEL": "Website DNS TXT record info",
+	"WEBSITE_DNS_RECORD_MORE_INFO": "Check out ${0} for how to add DNS TXT record for your publisher domain",
+	"THIS_TUTORIAL": "this tutorial",
+	"WITHDRAW_ADDRESS_WARNING": "Please double check the wallet address you are withdrawing to. Funds sent to the wrong address cannot be recovered."
 }
