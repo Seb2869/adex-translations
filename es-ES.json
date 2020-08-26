@@ -1368,5 +1368,12 @@
 	"WEBSITE_DNS_RECORD_LABEL": "Website DNS TXT record info",
 	"WEBSITE_DNS_RECORD_MORE_INFO": "Check out ${0} for how to add DNS TXT record for your publisher domain",
 	"THIS_TUTORIAL": "this tutorial",
-	"WITHDRAW_ADDRESS_WARNING": "Please double check the wallet address you are withdrawing to. Funds sent to the wrong address cannot be recovered."
+	"WITHDRAW_ADDRESS_WARNING": "Please double check the wallet address you are withdrawing to. Funds sent to the wrong address cannot be recovered.",
+	"DEVICE_CONSOLE": "Consoel",
+	"DEVICE_MOBILE": "Consoel",
+	"POPULAR": "Popular",
+	"GROUP_DESKTOP": "Desktop",
+	"GROUP_MOBILE": "Mobile",
+	"GROUP_ANDROID": "Android",
+	"GROUP_IOS": "iOS"
 }
