@@ -1375,5 +1375,8 @@
 	"GROUP_DESKTOP": "Desktop",
 	"GROUP_MOBILE": "Mobile",
 	"GROUP_ANDROID": "Android",
-	"GROUP_IOS": "iOS"
+	"GROUP_IOS": "iOS",
+	"IDENTITY_MAIN_TOKEN_BALANCE_INFO": "Account total balance",
+	"IDENTITY_MAIN_TOKEN_BALANCE_WITHDRAW_AVAILABLE_INFO": "Account balance available for withdrawal (excludes balances on campaigns insufficient to cover network fees. ${0})",
+	"FIND_MORE": "Find more."
 }
