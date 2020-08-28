@@ -995,5 +995,6 @@
 	"ERR_MAX_CPM_LT_MIN_CPM": "Max CPM should be higher or equal to min CPM",
 	"ERR_MIN_CPM_GT_MAX_CPM": "Min CPM should be less or equal to max CPM",
 	"ERR_DEPOSIT_UNDER_MAX_CPM": "Deposit shoud be higher or equal to max CPM",
-	"ERR_MAX_CPM_OVER_DEPOSIT": "Max CPM cannot be higher than deposit"
+	"ERR_MAX_CPM_OVER_DEPOSIT": "Max CPM cannot be higher than deposit",
+	"SCHEDULED": "Scheduled"
 }
