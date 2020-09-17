@@ -368,7 +368,6 @@
 	"CREATE_NEW_IDENTITY_LINK": "Don't have an identity? Create one.",
 	"CAMPAIGN_MIN_TARGETING": "Only show ad if targeting matches",
 	"SIGN_IN_TO": "Sign in to ${0}",
-	"QUICK_LOGIN_INFO": "Log in with ${0}",
 	"ERR_QUICK_WALLET_LOGIN": "Wallet error: ${0}",
 	"QUICK_LOGIN": "Quick account",
 	"ERR_CAMPAIGN_REQUIRES_UNITS": "You should have at least one ad unit to create a campaign. Add an add unit by clicking the button below.",
@@ -417,7 +416,7 @@
 	"EXPLAIN_TOTAL_REVENUE": "Total revenue in ${0} for all of your ad slots during the selected timeframe.",
 	"LABEL_AVG_CPM": "Average CPM",
 	"EXPLAIN_AVG_CPM": "Average cost per 1,000 impressions for the selected timeframe.",
-	"SIGN_UP_IN": "Log in/ Sign up",
+	"SIGN_UP_IN": "Log in / Sign up",
 	"SIGN_UP_IN_SELECT": "Choose one of the options below:",
 	"CONTINUE_NEW_AUTH": "OK",
 	"KEEP_MY_SESSION": "Cancel",
@@ -824,6 +823,7 @@
 	"DEVICES_IN": "Devices - show in:",
 	"DEVICES_NIN": "Devices - NOT show in:",
 	"ALL_DEVICES": "All devices",
+	"DEVICES": "Devices",
 	"INCLUDE_INCENTIVIZED_TRAFFIC": "Include incentivized traffic",
 	"DISABLE_FREQUENCY_CAPPING": "Disable frequency capping",
 	"LIMIT_AVERAGE_DAILY_SPENDING": "Limit average daily spending",
@@ -996,5 +996,7 @@
 	"ERR_MIN_CPM_GT_MAX_CPM": "Min CPM should be less or equal to max CPM",
 	"ERR_DEPOSIT_UNDER_MAX_CPM": "Deposit shoud be higher or equal to max CPM",
 	"ERR_MAX_CPM_OVER_DEPOSIT": "Max CPM cannot be higher than deposit",
-	"SCHEDULED": "Scheduled"
+	"SCHEDULED": "Scheduled",
+	"CONTINUE_AS": "Continue as: ${0} (${1})",
+	"BANK_TRANSFER_OR_CARD_PAYMENTS": "Credit/Debit card or Bank Transfer"
 }
