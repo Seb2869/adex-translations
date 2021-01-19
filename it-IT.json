@@ -1044,7 +1044,7 @@
 	"ERR_NO_ENS_USERNAME_PROVIDED": "Username not provided",
 	"ERR_INVALID_ENS_USER_NAME": "Invalid username: can contain only lower case latin letters (a-z) and digits (0-9)",
 	"ENS_NOT_SET_INFO": "Read more about ENS usernames ${0}",
-	"DAI_DIRECT_DEPOSIT_WARNING_1": "Please amke sure to <strong>select Ethereum as transfer network</strong> if sending DAI from Binance.",
+	"DAI_DIRECT_DEPOSIT_WARNING_1": "Please make sure to <strong>select Ethereum as transfer network</strong> if sending DAI from Binance.",
 	"DAI_DIRECT_DEPOSIT_WARNING_2": "Otherwise the funds will not be credited to your account.",
 	"ITEM_NOT_FOUND": "404 - ${0} ${1} not found!",
 	"APPLY_FILTERS": "Apply filters"
