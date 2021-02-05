@@ -452,7 +452,7 @@
 	"REFRESH": "Refresh",
 	"TITLE_HELPER_TXT": "Campaign title",
 	"EMAIL_ALREADY_USED": "Email already used",
-	"ENS_NOT_SET": "Username not set",
+	"ENS_NOT_SET": "Username not set. This is optional and incurs a transaction fee.",
 	"ACCOUNT_SET_ENS_STEP": "Choose username",
 	"SET_ENS_MAIN_INFO": "Set an username to your Account ID",
 	"ENS_TO_SET_TO_ADDR": "Choose username",
@@ -1047,5 +1047,7 @@
 	"DAI_DIRECT_DEPOSIT_WARNING_1": "Please make sure to <strong>select Ethereum as transfer network</strong> if sending DAI from Binance.",
 	"DAI_DIRECT_DEPOSIT_WARNING_2": "Otherwise the funds will not be credited to your account.",
 	"ITEM_NOT_FOUND": "404 - ${0} ${1} not found!",
-	"APPLY_FILTERS": "Apply filters"
+	"APPLY_FILTERS": "Apply filters",
+	"CATEGORIES_RECOMMENDATION_MESSAGE": "We recommend you to choose all categories relating to your business. Please keep in mind that we use contextual targeting in order to protect user privacy, so the categorisation is based on the types of websites. Therefore, you should consider in which website categories users with similar interests can be found.",
+	"PUBLISHERS_RECOMMENDATION_MESSAGE": "If you have selected categories in the previous step, there is no need for you to manually select or unselect publishers unless you have a good reason to exclude certain websites. We recommend to keep all websites from a selected category to ensure your campaign will run smoothly."
 }
