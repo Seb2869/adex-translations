@@ -1051,5 +1051,6 @@
 	"CATEGORIES_RECOMMENDATION_MESSAGE": "We recommend you to choose all categories relating to your business. Please keep in mind that we use contextual targeting in order to protect user privacy, so the categorisation is based on the types of websites. Therefore, you should consider in which website categories users with similar interests can be found.",
 	"PUBLISHERS_RECOMMENDATION_MESSAGE": "If you have selected categories in the previous step, there is no need for you to manually select or unselect publishers unless you have a good reason to exclude certain websites. We recommend to keep all websites from a selected category to ensure your campaign will run smoothly.",
 	"AD_SLOTS_NOT_GENERATING_IMPRESSIONS_WARNING": "Your ad slots are not generating impressions? Learn more about possible reasons",
-	"TOOLTIP_READY_NO_IMPRESSIONS": "Your campaign is not generating any impressions? See what the reasons might be ${0}"
+	"TOOLTIP_READY_NO_IMPRESSIONS": "Your campaign is not generating any impressions? See what the reasons might be ${0}",
+	"TOOLTIP_EXPLAIN_TRANSACTION_FEE": "When you open a campaign on AdEx Network, it is recorded on the Ethereum network, which requires fees for every interaction with it."
 }
