@@ -1055,7 +1055,7 @@
 	"TOOLTIP_READY_NO_IMPRESSIONS": "Your campaign is not generating any impressions? See what the reasons might be ${0}",
 	"TOOLTIP_EXPLAIN_TRANSACTION_FEE": "When you open a campaign on AdEx Network, it is recorded on the Ethereum network, which requires fees for every interaction with it.",
 	"ERR_RESEND_EMAIL": "Error resending confirmation email: ${0}",
-	"SUCCESS_RESEND_EMAIL": "Confirmation email succesffully sent! Please check your email <strong>${0}</strong>",
+	"SUCCESS_RESEND_EMAIL": "Confirmation email succesffully sent! Please check your email ${0}",
 	"GETTING_STARTED_DID_NOT_RECEIVE_QUESTION": "Didn't receive the email or you can't find it?",
 	"RESEND": "Resend",
 	"WAIT_TIME": "(wait ${0}s)"
